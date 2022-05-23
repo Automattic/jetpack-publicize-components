@@ -19,7 +19,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-base-styles": "^0.3",
-		"@automattic/jetpack-components": "^0.13",
+		"@automattic/jetpack-components": "^0.14",
 		"@automattic/jetpack-shared-extension-utils": "^0.4",
 		"@wordpress/annotations": "2.8.0",
 		"@wordpress/components": "19.10.0",
