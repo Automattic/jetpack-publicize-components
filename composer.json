@@ -21,15 +21,6 @@
 			"pnpm nyc --report-dir=\"$COVERAGE_DIR\" pnpm run test"
 		]
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../../packages/*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
