@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Publicize Components: Move the remaining components and hooks required for Jetpack Social
 
 ### Changed
+- Updated package dependencies
 - Updated package dependencies.
 
 ## 0.1.0 - 2022-05-24
