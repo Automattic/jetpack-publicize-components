@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Reorder JS imports for `import/order` eslint rule.
+
 ## [0.2.0] - 2022-05-31
 ### Added
 - Publicize Components: Move the remaining components and hooks required for Jetpack Social [#24464]
