@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Rebrand Publicize to Jetpack Social
+- Updated package dependencies.
 
 ## [0.3.6] - 2022-08-23
 ### Changed
