@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.7.5-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Social: Fix the path to the connections URL in the editor
+
 ## [0.7.4] - 2022-10-17
 ### Changed
 - Updated package dependencies. [#26851]
@@ -109,6 +116,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.7.5-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.7.4...v0.7.5-alpha
 [0.7.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.7.3...v0.7.4
 [0.7.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.7.2...v0.7.3
 [0.7.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.7.1...v0.7.2
