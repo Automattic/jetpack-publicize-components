@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add simple JS React test for PublicizeConnection component
 
+### Changed
+- Updated package dependencies.
+
 ## [0.10.0] - 2022-11-28
 ### Changed
 - Make upgrade nudge text more clear [#27490]
