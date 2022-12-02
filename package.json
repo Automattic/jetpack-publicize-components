@@ -41,7 +41,7 @@
 	},
 	"devDependencies": {
 		"@automattic/color-studio": "2.5.0",
-		"@automattic/jetpack-base-styles": "^0.3.16-alpha",
+		"@automattic/jetpack-base-styles": "^0.3.16",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.20.5",
 		"@babel/plugin-transform-react-jsx": "7.19.0",
