@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Media validator for image picker
+- Social: Added a 'more info' link to the plan details in the editor nudge
 
 ## [0.10.1] - 2022-12-06
 ### Added
