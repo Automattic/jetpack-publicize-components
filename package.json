@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-components": "workspace:*",
-		"@automattic/jetpack-shared-extension-utils": "^0.8.2-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.8.2",
 		"@automattic/jetpack-analytics": "workspace:*",
 		"@automattic/jetpack-connection": "workspace:*",
 		"@automattic/social-previews": "1.1.5",
@@ -43,7 +43,7 @@
 	},
 	"devDependencies": {
 		"@automattic/color-studio": "2.5.0",
-		"@automattic/jetpack-base-styles": "^0.3.18-alpha",
+		"@automattic/jetpack-base-styles": "^0.3.18",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.20.7",
 		"@babel/plugin-transform-react-jsx": "7.20.7",
