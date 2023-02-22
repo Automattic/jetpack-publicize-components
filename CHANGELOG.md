@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add Social Image Generator feature flag to Jetpack Social
 
+### Fixed
+- Update React peer dependencies to match updated dev dependencies.
+
 ## [0.16.1] - 2023-02-20
 ### Changed
 - Minor internal updates.
