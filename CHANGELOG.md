@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add Social Image Generator feature flag to Jetpack Social
+- Jetpack Social: Add Mastodon and default media upload restrictions
 
 ### Fixed
 - Update React peer dependencies to match updated dev dependencies.
