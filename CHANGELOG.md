@@ -5,20 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.17.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.17.0] - 2023-02-28
 ### Added
-- Add Social Image Generator editor panel to post sidebar
-- Add Social Image Generator feature flag to Jetpack Social
-- Jetpack Social: Add Mastodon and default media upload restrictions
+- Add Social Image Generator editor panel to post sidebar [#28737]
+- Add Social Image Generator feature flag to Jetpack Social [#29001]
+- Jetpack Social: Add Mastodon and default media upload restrictions [#29034]
 
 ### Removed
-- Removed default image for SIG as it's not used yet
+- Removed default image for SIG as it's not used yet [#29206]
 
 ### Fixed
-- Update React peer dependencies to match updated dev dependencies.
+- Update React peer dependencies to match updated dev dependencies. [#28924]
 
 ## [0.16.1] - 2023-02-20
 ### Changed
@@ -216,7 +213,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.17.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.16.1...v0.17.0-alpha
+[0.17.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.16.1...v0.17.0
 [0.16.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.16.0...v0.16.1
 [0.16.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.15.2...v0.16.0
 [0.15.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.15.1...v0.15.2
