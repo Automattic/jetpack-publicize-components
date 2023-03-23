@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Use TemplatePicker to save selected template and send it to our token generation endpoint
 
+### Fixed
+- Fixed the bug where the attache media doesn't show up after post publish.
+
 ## [0.18.0] - 2023-03-20
 ### Added
 - Add Template Picker component to Jetpack Social [#29504]
