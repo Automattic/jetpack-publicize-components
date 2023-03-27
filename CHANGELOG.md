@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Use TemplatePicker to save selected template and send it to our token generation endpoint
 
 ### Fixed
+- Fixed infinite loop with media section
 - Fixed the bug where the attache media doesn't show up after post publish.
 
 ## [0.18.0] - 2023-03-20
