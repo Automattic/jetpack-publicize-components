@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added SIG image preview component
+
 ### Changed
 - Use TemplatePicker to save selected template and send it to our token generation endpoint
 
