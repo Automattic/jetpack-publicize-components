@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added SIG image preview component
+- Added toggle to Social admin page to enable or disable Social Image Generator as well as an option to pick a default template
 
 ### Changed
 - Use TemplatePicker to save selected template and send it to our token generation endpoint
