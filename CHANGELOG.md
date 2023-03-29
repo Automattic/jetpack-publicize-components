@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added toggle to Social admin page to enable or disable Social Image Generator as well as an option to pick a default template
 
+### Fixed
+- Fixed featured image not loading on startup
+
 ## [0.19.0] - 2023-03-27
 ### Added
 - Added SIG image preview component [#29559]
