@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.21.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Use attached media for the OpenGraph image
+
 ## [0.20.2] - 2023-04-17
 ### Changed
 - Updated package dependencies. [#30019]
@@ -254,6 +261,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.21.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.20.2...v0.21.0-alpha
 [0.20.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.20.1...v0.20.2
 [0.20.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.20.0...v0.20.1
 [0.20.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.19.0...v0.20.0
