@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added new component social-post-control for toggling Share as a Social post.
 - Added new option for flagging a post as social post
 
 ### Changed
