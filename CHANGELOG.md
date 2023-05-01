@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack Social sidebar: Disable the Media Picker if Social Image Generator is enabled
 - Reduced the file sizes of the Social Image Generator template previews
 
+### Fixed
+- Jetpack Social: Render Social Image Generator panel even when SIG's default is disabled
+
 ## [0.21.0] - 2023-04-25
 ### Added
 - Added new component social-post-control for toggling Share as a Social post. [#30185]
