@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.26.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Removed duplicate twitter preview
+- Social Preview: Shift the modal nav to the top
+- Updated Google Search preview
+- Updated the social previews to use the updated calypso components
+- Update Facebook preview
+
+### Removed
+- Removed duplicate styles
+
+### Fixed
+- Ensured the media picker is disabled correctly
+- Fixed Social Preview modal styling
+- Use correct image in Social Previews
+
 ## [0.25.0] - 2023-05-22
 ### Added
 - Added validation of featured image for Instagram connections [#30724]
@@ -286,6 +305,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.26.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.25.0...v0.26.0-alpha
 [0.25.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.24.0...v0.25.0
 [0.24.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.23.0...v0.24.0
 [0.23.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.22.0...v0.23.0
