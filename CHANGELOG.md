@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Ensured the media picker is disabled correctly
+- fixed instagram notice from showing up when you already have a connection.
 - Fixed Social Preview modal styling
 - Use correct image in Social Previews
 
