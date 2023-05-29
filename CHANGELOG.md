@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Jetpack Social: Add a notice to let users know Instagram is available
 
 ### Changed
+- Bump social-previews version
 - Removed duplicate twitter preview
 - Social Preview: Shift the modal nav to the top
 - Updated Google Search preview
