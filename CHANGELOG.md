@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Ensured the media picker is disabled correctly
 - fixed instagram notice from showing up when you already have a connection.
 - Fixed Social Preview modal styling
+- Social Previews: Update the LinkedIn default profile image and make the text translatable
 - Use correct image in Social Previews
 
 ## [0.25.0] - 2023-05-22
