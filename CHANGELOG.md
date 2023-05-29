@@ -5,34 +5,31 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.26.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.26.0] - 2023-05-29
 ### Added
-- Added account_name field to the connections post field.
-- Added Instagram preview to Social Previews
-- Instagram connection toggle
-- Jetpack Social: Add a notice to let users know Instagram is available
-- Mastodon post preview
+- Added account_name field to the connections post field. [#30937]
+- Added Instagram preview to Social Previews [#30929]
+- Instagram connection toggle [#30803]
+- Jetpack Social: Add a notice to let users know Instagram is available [#30777]
+- Mastodon post preview [#30919]
 
 ### Changed
-- Bump social-previews version
-- Removed duplicate twitter preview
-- Social Preview: Shift the modal nav to the top
-- Updated Google Search preview
-- Updated the social previews to use the updated calypso components
-- Update Facebook preview
+- Bump social-previews version [#31034]
+- Removed duplicate twitter preview [#29803]
+- Social Preview: Shift the modal nav to the top [#29803]
+- Updated Google Search preview [#29803]
+- Updated the social previews to use the updated Calypso components [#29803]
+- Update Facebook preview [#29803]
 
 ### Removed
-- Removed duplicate styles
+- Removed duplicate styles [#29803]
 
 ### Fixed
-- Ensured the media picker is disabled correctly
-- fixed instagram notice from showing up when you already have a connection.
-- Fixed Social Preview modal styling
-- Social Previews: Update the LinkedIn default profile image and make the text translatable
-- Use correct image in Social Previews
+- Ensured the media picker is disabled correctly [#30888]
+- Fixed Instagram notice from showing up when you already have a connection. [#30980]
+- Fixed Social Preview modal styling [#29803]
+- Social Previews: Update the LinkedIn default profile image and make the text translatable [#31023]
+- Use correct image in Social Previews [#29803]
 
 ## [0.25.0] - 2023-05-22
 ### Added
@@ -315,7 +312,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.26.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.25.0...v0.26.0-alpha
+[0.26.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.25.0...v0.26.0
 [0.25.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.24.0...v0.25.0
 [0.24.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.23.0...v0.24.0
 [0.23.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.22.0...v0.23.0
