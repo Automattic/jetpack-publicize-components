@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Social: Fixed the connection state to ensure that new connections are disabled by default when there are no shares left.
+
 ## [0.26.0] - 2023-05-29
 ### Added
 - Added account_name field to the connections post field. [#30937]
