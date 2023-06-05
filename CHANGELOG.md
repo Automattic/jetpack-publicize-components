@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Jetpack Social: Hide the image requirement notice when the site is out of shares
+- Simplified i18n strings
 - Social: Fixed the connection state to ensure that new connections are disabled by default when there are no shares left.
 
 ## [0.26.0] - 2023-05-29
