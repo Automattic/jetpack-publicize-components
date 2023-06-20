@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Media picker: Constrain the preview image
+
 ## [0.26.3] - 2023-06-19
 ### Fixed
 - Fixed an issue where Instagram restricitons are not working because of the service name [#31310]
