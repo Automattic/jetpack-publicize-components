@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Refactored the media validation so that it is done on a per connection basis
+- Updated package dependencies.
 
 ## [0.27.0] - 2023-06-26
 ### Changed
