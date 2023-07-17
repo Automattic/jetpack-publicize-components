@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fix Instagram Max size
+
 ## [0.29.0] - 2023-07-10
 ### Changed
 - Refactored component so it can accept values as prop, and disable debounce [#31700]
