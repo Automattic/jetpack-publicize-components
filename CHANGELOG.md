@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added instagram reel restrictions
 
+### Changed
+- Refactor TemplatePicker component, so inner part can be use in it's own without a modal.
+
 ## [0.29.1] - 2023-07-17
 ### Changed
 - Updated package dependencies. [#31785]
