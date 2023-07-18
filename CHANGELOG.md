@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.30.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Added instagram reel restrictions
+
 ## [0.29.1] - 2023-07-17
 ### Changed
 - Updated package dependencies. [#31785]
@@ -354,6 +361,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.30.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.29.1...v0.30.0-alpha
 [0.29.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.29.0...v0.29.1
 [0.29.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.28.0...v0.29.0
 [0.28.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.27.0...v0.28.0
