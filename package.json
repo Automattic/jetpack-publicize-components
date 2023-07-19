@@ -19,7 +19,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "workspace:*",
-		"@automattic/jetpack-components": "^0.40.4-alpha",
+		"@automattic/jetpack-components": "^0.40.4",
 		"@automattic/jetpack-connection": "workspace:*",
 		"@automattic/jetpack-shared-extension-utils": "^0.10.9",
 		"@automattic/social-previews": "2.0.1-beta.5",
