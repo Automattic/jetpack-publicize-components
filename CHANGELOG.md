@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Social: Move the Social Image Generator settings to a modal.
 
+### Fixed
+- Fixed checkout link so it's not siteless
+
 ## [0.31.0] - 2023-08-01
 ### Added
 - Add check for seeing if user is on Basic plan. [#32112]
