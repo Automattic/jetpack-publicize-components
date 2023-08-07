@@ -21,7 +21,7 @@
 		"@automattic/jetpack-analytics": "workspace:*",
 		"@automattic/jetpack-components": "^0.41.0",
 		"@automattic/jetpack-connection": "workspace:*",
-		"@automattic/jetpack-shared-extension-utils": "^0.10.9",
+		"@automattic/jetpack-shared-extension-utils": "^0.11.0-alpha",
 		"@automattic/social-previews": "2.0.1-beta.5",
 		"@wordpress/annotations": "2.37.0",
 		"@wordpress/api-fetch": "6.34.0",
