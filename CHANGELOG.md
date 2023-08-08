@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Move the Social Image Generator settings to a modal.
+- Updated package dependencies.
 
 ### Fixed
 - Fixed checkout link so it's not siteless
