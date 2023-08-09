@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added new nudge in the editor to upgrade to the Advanced plan. Appears every 3 months
 
 ### Changed
+- Moved store to publicize-components package
 - Social: Move the Social Image Generator settings to a modal.
 - Updated package dependencies.
 
