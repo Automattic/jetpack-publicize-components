@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added SIG toggle for Jetpack Settings
 
+### Fixed
+- Social: Scope the preview image CSS to its container
+
 ## [0.33.0] - 2023-08-09
 ### Changed
 - Moved store to publicize-components package [#32317]
