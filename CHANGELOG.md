@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added SIG toggle for Jetpack Settings
 
+### Changed
+- Update connection toggles to be button switches
+
 ### Fixed
 - Social: Scope the preview image CSS to its container
 
