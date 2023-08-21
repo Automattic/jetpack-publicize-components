@@ -5,19 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.34.0-alpha] - unreleased
+## [0.34.1-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
-### Added
-- Added SIG toggle for Jetpack Settings
-
 ### Changed
-- Update connection toggles to be button switches
 - Updated package dependencies.
 
+## [0.34.0] - 2023-08-21
+### Added
+- Added SIG toggle for Jetpack Settings [#32475]
+
+### Changed
+- Update connection toggles to be button switches [#32305]
+
 ### Fixed
-- Social: Scope the preview image CSS to its container
+- Social: Scope the preview image CSS to its container [#32539]
 
 ## [0.33.0] - 2023-08-09
 ### Changed
@@ -398,7 +401,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.34.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.33.0...v0.34.0-alpha
+[0.34.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.34.0...v0.34.1-alpha
+[0.34.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.33.0...v0.34.0
 [0.33.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.32.0...v0.33.0
 [0.32.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.31.0...v0.32.0
 [0.31.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.30.0...v0.31.0
