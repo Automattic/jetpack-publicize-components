@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed an issue with the logic of getting the enchanced publishing feature
+- Fixed FB image size limit for restrictions
 
 ## [0.35.0] - 2023-08-23
 ### Added
