@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed logic that disables the connections based on the auto-conversion feature
+- Updated package dependencies.
 
 ### Fixed
 - Fixed an issue with the logic of getting the enchanced publishing feature
