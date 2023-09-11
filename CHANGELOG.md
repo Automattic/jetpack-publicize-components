@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed the isConvertible logic so that Auto conversion only works for Photon supported mime typesa
+- Social: Disable Share as a social post checkbox if there is no media on the post
 
 ## [0.36.0] - 2023-09-04
 ### Changed
