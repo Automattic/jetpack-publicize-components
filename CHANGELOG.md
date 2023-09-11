@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add the change settings logic in Social for the auto conversion feature
 
+### Changed
+- Changed the isConvertible logic so that Auto conversion only works for Photon supported mime typesa
+
 ## [0.36.0] - 2023-09-04
 ### Changed
 - Changed logic that disables the connections based on the auto-conversion feature [#32671]
