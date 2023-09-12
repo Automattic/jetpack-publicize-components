@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.37.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Updated package dependencies.
+
 ## [0.37.0] - 2023-09-11
 ### Added
 - Add the change settings logic in Social for the auto conversion feature [#32712]
@@ -419,6 +426,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.37.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.37.0...v0.37.1-alpha
 [0.37.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.36.0...v0.37.0
 [0.36.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.35.0...v0.36.0
 [0.35.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.34.0...v0.35.0
