@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed video previews for Social Previews
+- Only allow selectable image types for Social attached media
 
 ## [0.37.0] - 2023-09-11
 ### Added
