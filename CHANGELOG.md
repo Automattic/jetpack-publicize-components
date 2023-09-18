@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Move auto-conversion notice near the Instagram one
 - Updated package dependencies.
 
+### Fixed
+- Fixed video previews for Social Previews
+
 ## [0.37.0] - 2023-09-11
 ### Added
 - Add the change settings logic in Social for the auto conversion feature [#32712]
