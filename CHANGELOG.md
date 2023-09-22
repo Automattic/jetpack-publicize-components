@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added sharing buttons to be used in post-publish panel
 
+### Fixed
+- Publicize: Reinstate the connect an account link
+
 ## [0.38.0] - 2023-09-19
 ### Changed
 - Move auto-conversion notice near the Instagram one [#33106]
