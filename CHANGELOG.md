@@ -11,7 +11,10 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a new post-publish panel for quick sharing
-- Added Copy to clipboard button to sharing buttons
+
+## [0.39.1] - 2023-09-28
+### Added
+- Added Copy to clipboard button to sharing buttons [#33261]
 
 ## [0.39.0] - 2023-09-25
 ### Added
@@ -447,7 +450,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.40.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.0...v0.40.0-alpha
+[0.40.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.1...v0.40.0-alpha
+[0.39.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.0...v0.39.1
 [0.39.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.38.0...v0.39.0
 [0.38.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.37.0...v0.38.0
 [0.37.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.36.0...v0.37.0
