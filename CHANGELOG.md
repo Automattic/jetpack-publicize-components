@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.40.2-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Changed Twitter icon and label to X
+
 ## [0.40.1] - 2023-10-10
 ### Changed
 - Updated package dependencies. [#33428]
@@ -451,6 +458,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.40.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.40.1...v0.40.2-alpha
 [0.40.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.40.0...v0.40.1
 [0.40.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.1...v0.40.0
 [0.39.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.0...v0.39.1
