@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added aspect-ratio validation for Instagram images
+
 ### Changed
 - Changed Twitter icon and label to X
 
