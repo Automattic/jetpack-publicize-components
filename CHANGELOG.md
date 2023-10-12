@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed Twitter icon and label to X
+- Convert Twitter to X
 - Updated package dependencies.
 
 ## [0.40.1] - 2023-10-10
