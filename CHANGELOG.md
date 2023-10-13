@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added aspect-ratio validation for Instagram images
 
 ### Changed
+- Added type prop to custom media for social posts
 - Changed Twitter icon and label to X
 - Convert Twitter to X
 - Updated package dependencies.
