@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Fixed an issue with conditional className property
 - Fixed tracking for quick share buttons
 
 ## [0.40.1] - 2023-10-10
