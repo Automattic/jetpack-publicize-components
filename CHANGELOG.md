@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Convert Twitter to X
 - Updated package dependencies.
 
+### Fixed
+- Fixed tracking for quick share buttons
+
 ## [0.40.1] - 2023-10-10
 ### Changed
 - Updated package dependencies. [#33428]
