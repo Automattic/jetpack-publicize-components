@@ -5,23 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.40.2-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.40.2] - 2023-10-16
 ### Added
-- Added aspect-ratio validation for Instagram images
+- Added aspect-ratio validation for Instagram images. [#33522]
 
 ### Changed
-- Added type prop to custom media for social posts
-- Changed Twitter icon and label to X
-- Convert Twitter to X
-- Replaced inline social icons with social-logos package
-- Updated package dependencies.
+- Added type prop to custom media for social posts. [#33504]
+- Changed Twitter icon and label to X. [#33445]
+- Convert Twitter to X. [#33574]
+- Replaced inline social icons with social-logos package. [#33613]
+- Updated package dependencies. [#33429]
 
 ### Fixed
-- Fixed an issue with conditional className property
-- Fixed tracking for quick share buttons
+- Fixed an issue with conditional className property [#33592]
+- Fixed tracking for quick share buttons [#33589]
 
 ## [0.40.1] - 2023-10-10
 ### Changed
@@ -469,7 +466,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.40.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.40.1...v0.40.2-alpha
+[0.40.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.40.1...v0.40.2
 [0.40.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.40.0...v0.40.1
 [0.40.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.1...v0.40.0
 [0.39.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.39.0...v0.39.1
