@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Connection Toggle: Prevented the change handler for firing when the component is disabled
+
 ## [0.40.2] - 2023-10-16
 ### Added
 - Added aspect-ratio validation for Instagram images. [#33522]
