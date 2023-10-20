@@ -19,9 +19,9 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.27",
-		"@automattic/jetpack-components": "^0.44.0-alpha",
-		"@automattic/jetpack-connection": "^0.30.4-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^0.12.4-alpha",
+		"@automattic/jetpack-components": "^0.44.0",
+		"@automattic/jetpack-connection": "^0.30.4",
+		"@automattic/jetpack-shared-extension-utils": "^0.12.4",
 		"@automattic/social-previews": "2.0.1-beta.9",
 		"@wordpress/annotations": "2.44.0",
 		"@wordpress/api-fetch": "6.41.0",
@@ -47,7 +47,7 @@
 	},
 	"devDependencies": {
 		"@automattic/color-studio": "2.5.0",
-		"@automattic/jetpack-base-styles": "^0.6.11-alpha",
+		"@automattic/jetpack-base-styles": "^0.6.11",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.23.2",
 		"@babel/plugin-transform-react-jsx": "7.22.15",
