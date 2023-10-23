@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Removed
+- Social: Remove tweetstorm editor components
+
 ### Fixed
 - Connection Toggle: Prevented the change handler for firing when the component is disabled
 
