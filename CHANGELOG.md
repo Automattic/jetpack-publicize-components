@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added Facebook to Quick Share buttons
+- Added Nextdoor to Social Previews
 
 ### Changed
 - Updated package dependencies.
