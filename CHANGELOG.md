@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fixed an issue where initial state is not in sync
+
 ## [0.41.1] - 2023-10-26
 ### Fixed
 - Fixed Social Image Generator debouncing. [#33767]
