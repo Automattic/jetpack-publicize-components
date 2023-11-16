@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Removed
+- Removed jetpack/publicize store
+
 ## [0.41.5] - 2023-11-14
 ### Added
 - Added unit tests for Jetpack social store connections. [#34064]
