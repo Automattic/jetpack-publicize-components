@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Disabled quick share for scheduled posts
+- Extracted test utils to make them reusable
 
 ### Fixed
 - Fixed the issue of publicize remaining ON after the post is published
