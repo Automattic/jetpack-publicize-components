@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.41.9-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Updated package dependencies.
+
 ## [0.41.8] - 2023-12-03
 ### Changed
 - Disabled quick share for scheduled posts. [#34354]
@@ -526,6 +533,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.41.9-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.8...v0.41.9-alpha
 [0.41.8]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.7...v0.41.8
 [0.41.7]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.6...v0.41.7
 [0.41.6]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.5...v0.41.6
