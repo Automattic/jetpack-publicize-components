@@ -5,18 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.43.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.43.0] - 2023-12-14
 ### Changed
-- Moved `usePostMeta` hook to `/hooks/` directory
-- Splitted PublicizeForm component into smaller ones
-- Updated the share limit bar design
+- Moved `usePostMeta` hook to `/hooks/` directory. [#34611]
+- Split PublicizeForm component into smaller ones. [#34612]
+- Updated the share limit bar design. [#34182]
 
 ### Fixed
-- Fixed Jetpack Social scheduled post messaging
-- Fixed the scheduled post double count for share limits
+- Fixed Jetpack Social scheduled post messaging. [#34182]
+- Fixed the scheduled post double count for share limits. [#34182]
 
 ## [0.42.0] - 2023-12-11
 ### Changed
@@ -547,7 +544,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.43.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.42.0...v0.43.0-alpha
+[0.43.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.42.0...v0.43.0
 [0.42.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.9...v0.42.0
 [0.41.9]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.8...v0.41.9
 [0.41.8]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.7...v0.41.8
