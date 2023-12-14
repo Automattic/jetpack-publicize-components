@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Moved `usePostMeta` hook to `/hooks/` directory
+- Splitted PublicizeForm component into smaller ones
 - Updated the share limit bar design
 
 ### Fixed
