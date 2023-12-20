@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fixed the media validation notice shown even when auto conversion is enabled.
+
 ## [0.43.0] - 2023-12-14
 ### Changed
 - Moved `usePostMeta` hook to `/hooks/` directory. [#34611]
