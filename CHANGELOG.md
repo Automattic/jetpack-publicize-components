@@ -5,13 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.44.1-alpha] - unreleased
+## [0.44.2-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
-- Updated the design for Quick Share buttons and fixed its a11y
+
+## [0.44.1] - 2024-01-02
+### Changed
+- Updated the design for Quick Share buttons and fixed its a11y [#34754]
 
 ## [0.44.0] - 2023-12-20
 ### Changed
@@ -560,7 +563,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.44.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.44.0...v0.44.1-alpha
+[0.44.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.44.1...v0.44.2-alpha
+[0.44.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.44.0...v0.44.1
 [0.44.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.43.0...v0.44.0
 [0.43.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.42.0...v0.43.0
 [0.42.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.41.9...v0.42.0
