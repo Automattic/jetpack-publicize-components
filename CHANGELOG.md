@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Updated package dependencies.
 - Updated the design for Quick Share buttons and fixed its a11y
 
 ## [0.44.0] - 2023-12-20
