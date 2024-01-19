@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update dependencies.
 
+### Fixed
+- Fixed a bug where the post body images weren't used for social previews
+
 ## [0.45.0] - 2024-01-18
 ### Changed
 - Changed dismissed notices endpoint to be a core endpoint [#34544]
