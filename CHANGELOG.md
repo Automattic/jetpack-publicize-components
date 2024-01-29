@@ -12,6 +12,10 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add blog ID to the initial state.
 
+## [0.45.2] - 2024-01-29
+### Changed
+- Update dependencies. [#35170]
+
 ## [0.45.1] - 2024-01-22
 ### Changed
 - Update dependencies. [#35126]
@@ -578,7 +582,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.46.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.45.1...v0.46.0-alpha
+[0.46.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.45.2...v0.46.0-alpha
+[0.45.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.45.1...v0.45.2
 [0.45.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.45.0...v0.45.1
 [0.45.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.44.2...v0.45.0
 [0.44.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.44.1...v0.44.2
