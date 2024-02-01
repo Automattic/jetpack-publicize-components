@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add blog ID to the initial state.
 
+### Changed
+- Updated package dependencies.
+
 ## [0.45.2] - 2024-01-29
 ### Changed
 - Update dependencies. [#35170]
