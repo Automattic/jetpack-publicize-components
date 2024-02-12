@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Change editor layout for social notes
+- Updated package dependencies.
 
 ## [0.46.0] - 2024-02-05
 ### Added
