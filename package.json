@@ -20,7 +20,7 @@
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.29",
 		"@automattic/jetpack-components": "^0.48.3-alpha",
-		"@automattic/jetpack-connection": "^0.32.1",
+		"@automattic/jetpack-connection": "^0.32.2-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.14.2",
 		"@automattic/social-previews": "2.0.1-beta.10",
 		"@wordpress/annotations": "2.51.0",
