@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added toggle to Social admin page for the Social Notes
 
+### Changed
+- Added description to social previews for titeless posts
+
 ### Removed
 - Removed a notice to tell users that instagram is new nad can be connected
 
