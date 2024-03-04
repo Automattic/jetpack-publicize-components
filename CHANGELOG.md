@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Updated package dependencies.
 
+### Removed
+- Removed the flow to reconnect a broken social connection from the editor.
+
 ## [0.48.1] - 2024-02-27
 ### Changed
 - Update dependencies. [#35170]
