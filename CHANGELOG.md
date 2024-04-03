@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added options and UI for link formatting
 
+### Fixed
+- Fixed the (no title) link on the post publish panel
+
 ## [0.48.5] - 2024-03-27
 ### Changed
 - Updated package dependencies. [#36585]
