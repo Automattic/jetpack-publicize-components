@@ -5,12 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.48.6-alpha] - unreleased
+## [0.49.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added options and UI for link formatting
+
+### Changed
+- Only show custom media picker for normal posts
 
 ### Fixed
 - Fixed the (no title) link on the post publish panel
@@ -634,7 +637,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.48.6-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.48.5...v0.48.6-alpha
+[0.49.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.48.5...v0.49.0-alpha
 [0.48.5]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.48.4...v0.48.5
 [0.48.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.48.3...v0.48.4
 [0.48.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.48.2...v0.48.3
