@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed the (no title) link on the post publish panel
+- Fixed the learn more link
 
 ## [0.48.5] - 2024-03-27
 ### Changed
