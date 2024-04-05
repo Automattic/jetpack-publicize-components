@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Only show custom media picker for normal posts
+- Updated package dependencies.
 - Update to the most recent version of Color Studio, 2.6.0.
 
 ### Fixed
