@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Update to the most recent version of Color Studio, 2.6.0.
 
 ### Fixed
+- Fixed an issue where share as a social post was available free
 - Fixed the (no title) link on the post publish panel
 - Fixed the learn more link
 
