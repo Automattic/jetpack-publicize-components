@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added options and UI for link formatting
 
 ### Changed
+- Extracted the connection toggle state logic
 - Only show custom media picker for normal posts
 - Updated package dependencies.
 - Update to the most recent version of Color Studio, 2.6.0.
