@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated social previews package
 
+### Fixed
+- Fixed social previews crashing for non admin authors
+
 ## [0.49.1] - 2024-04-11
 ### Changed
 - Update dependencies. [#36156]
