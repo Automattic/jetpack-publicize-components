@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added feature flag for new social admin ui
 
+### Changed
+- Updated package dependencies.
+
 ## [0.49.3] - 2024-04-22
 ### Changed
 - Update the Social Sidebar Share Post panel to direct non-admin authors to user connection if there is no user connection. [#36976]
