@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.49.4-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Added feature flag for new social admin ui
+
 ## [0.49.3] - 2024-04-22
 ### Changed
 - Update the Social Sidebar Share Post panel to direct non-admin authors to user connection if there is no user connection. [#36976]
@@ -655,6 +662,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.49.4-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.3...v0.49.4-alpha
 [0.49.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.2...v0.49.3
 [0.49.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.1...v0.49.2
 [0.49.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.0...v0.49.1
