@@ -5,16 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.50.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.50.0] - 2024-05-06
 ### Added
-- Added feature flag for new social admin ui
-- Social Admin page: Added connection management component
+- Added feature flag for new social admin UI. [#37134]
+- Social Admin page: Added connection management component. [#37120]
 
 ### Changed
-- Updated package dependencies.
+- Updated package dependencies. [#37147] [#37148]
 
 ## [0.49.3] - 2024-04-22
 ### Changed
@@ -666,7 +663,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.50.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.3...v0.50.0-alpha
+[0.50.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.3...v0.50.0
 [0.49.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.2...v0.49.3
 [0.49.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.1...v0.49.2
 [0.49.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.49.0...v0.49.1
