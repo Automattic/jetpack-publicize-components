@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Social: Added add connection modal
 
+### Fixed
+- Fixed social connections list not displayed for simple sites
+
 ## [0.50.0] - 2024-05-06
 ### Added
 - Added feature flag for new social admin UI. [#37134]
