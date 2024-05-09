@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Wired up disconnect button and added reconnect button
 
 ### Fixed
+- Fixed a CSS styling issue in the connection management component
 - Fixed social connections list not displayed for simple sites
 
 ## [0.50.0] - 2024-05-06
