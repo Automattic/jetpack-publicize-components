@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Social: Added add connection modal
+- Wired up disconnect button and added reconnect button
 
 ### Fixed
 - Fixed social connections list not displayed for simple sites
