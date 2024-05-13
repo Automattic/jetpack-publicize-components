@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add connect form/button for connection management
 - Social: Added add connection modal
 - Social Connections: Added disconnection confirmation dialog
+- Social Limits: Added clarification of cycle reset
 - Wired up disconnect button and added reconnect button
 
 ### Fixed
