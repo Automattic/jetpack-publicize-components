@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Wired up confirmation UI with connect button
 
 ### Changed
+- Social | Updated connection modal UI
 - Updated package dependencies.
 
 ## [0.51.0] - 2024-05-13
