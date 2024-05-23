@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Made the editor connections modal behavior similar to the modal on the social admin page
 
 ### Fixed
+- Fixed an issue where non-admins saw action on connection management
 - Fixed UI bug with border
 
 ## [0.51.1] - 2024-05-20
