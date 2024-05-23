@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Refactored the connection list UI
 - Social | Improved reconnect flow to automatically open the connection window
 
+### Fixed
+- Fixed UI bug with border
+
 ## [0.51.1] - 2024-05-20
 ### Added
 - Added globalize/unglobalize connection UI. [#37377]
