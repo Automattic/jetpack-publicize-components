@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Refactored the connection list UI
 - Social | Improved reconnect flow to automatically open the connection window
 - Social | Made the editor connections modal behavior similar to the modal on the social admin page
+- Social | Updated connection fields to match the API schema
 
 ### Fixed
 - Fixed an issue where non-admins saw action on connection management
