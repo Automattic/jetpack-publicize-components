@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Social | Removed sharing buttons info from connections modal
 
+### Fixed
+- Social | Hide "Mark as shared" for non-admin authors
+
 ## [0.52.0] - 2024-05-27
 ### Added
 - Added tests. [#37516]
