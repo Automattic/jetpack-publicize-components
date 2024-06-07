@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Social | Added optmistic response for connection creation
 
+### Fixed
+- Clean up the creating connection spinner for confirm button
+
 ## [0.54.1] - 2024-06-05
 ### Changed
 - Updated package dependencies. [#37669]
