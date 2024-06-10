@@ -19,8 +19,8 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.29",
-		"@automattic/jetpack-components": "^0.53.7",
-		"@automattic/jetpack-connection": "^0.33.13",
+		"@automattic/jetpack-components": "^0.53.8-alpha",
+		"@automattic/jetpack-connection": "^0.33.14-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.14.14",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.0.1-beta.13",
@@ -39,7 +39,7 @@
 		"@wordpress/i18n": "5.0.0",
 		"@wordpress/icons": "10.0.0",
 		"@wordpress/notices": "5.0.0",
-		"classnames": "2.3.2",
+		"clsx": "2.1.1",
 		"prop-types": "15.8.1",
 		"react-page-visibility": "7.0.0",
 		"rememo": "4.0.1"
