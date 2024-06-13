@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Social: Fixed WSOD on connections UI when an old Twitter connection exists.
+
 ## [0.54.2] - 2024-06-10
 ### Changed
 - Change codebase to use clsx instead of classnames. [#37708]
