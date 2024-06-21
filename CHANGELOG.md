@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed skipped connections id
+- Social | Replaced + icon with connections management link in the post editor
 
 ## [0.54.4] - 2024-06-17
 ### Fixed
