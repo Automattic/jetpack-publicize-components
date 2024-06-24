@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Added Threads to the social connections services
+
 ### Fixed
 - Fixed skipped connections id
 - Social | Replaced + icon with connections management link in the post editor
