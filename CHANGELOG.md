@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Added service status to broken connections for a service
+- Social | Updated "Share post" logic to hide the button when there are no connections
 
 ## [0.54.6] - 2024-06-26
 ### Added
