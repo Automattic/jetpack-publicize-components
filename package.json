@@ -19,7 +19,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.29",
-		"@automattic/jetpack-components": "^0.54.4",
+		"@automattic/jetpack-components": "^0.55.0-alpha",
 		"@automattic/jetpack-connection": "^0.34.0",
 		"@automattic/jetpack-shared-extension-utils": "^0.14.18",
 		"@automattic/popup-monitor": "1.0.2",
