@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed double request issue and simplifed refresh logic
+- Social | Fixed parallel social connection requests messing up the UI state
 
 ## [0.56.1] - 2024-07-15
 ### Changed
