@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added mentioning of Manual Sharing
 
+### Fixed
+- Fixed broken connection notices to make them more helpful
+
 ## [0.56.2] - 2024-07-22
 ### Fixed
 - Fixed double request issue and simplifed refresh logic [#38350]
