@@ -19,9 +19,9 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.29",
-		"@automattic/jetpack-components": "^0.55.2-alpha",
+		"@automattic/jetpack-components": "^0.55.2",
 		"@automattic/jetpack-connection": "^0.34.1",
-		"@automattic/jetpack-shared-extension-utils": "^0.15.0-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.15.0",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.1.0-beta.6",
 		"@wordpress/annotations": "3.2.0",
