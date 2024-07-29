@@ -5,15 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.57.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.57.0] - 2024-07-29
 ### Added
-- Added mentioning of Manual Sharing
+- Added mentioning of Manual Sharing [#38411]
 
 ### Fixed
-- Fixed broken connection notices to make them more helpful
+- Fixed broken connection notices to make them more helpful [#38450]
 
 ## [0.56.2] - 2024-07-22
 ### Fixed
@@ -798,7 +795,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.57.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.56.2...v0.57.0-alpha
+[0.57.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.56.2...v0.57.0
 [0.56.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.56.1...v0.56.2
 [0.56.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.56.0...v0.56.1
 [0.56.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.55.1...v0.56.0
