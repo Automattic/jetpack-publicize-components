@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added mentioning of Manual Sharing
 
 ### Removed
+- Removed the unused code for image auto-conversion from social store
 - Social | Removed the media auto-conversion UI
 
 ### Fixed
