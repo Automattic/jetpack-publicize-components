@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed broken connection notices to make them more helpful
+- Social | Fixed and improved media auto conversion notices
 
 ## [0.56.2] - 2024-07-22
 ### Fixed
