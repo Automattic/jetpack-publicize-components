@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Fixup versions
+
 ### Removed
 - Removed the unused code for image auto-conversion from social store
 - Social | Removed the media auto-conversion UI
