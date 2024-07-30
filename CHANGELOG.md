@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added mentioning of Manual Sharing
 
+### Removed
+- Social | Removed the media auto-conversion UI
+
 ### Fixed
 - Fixed broken connection notices to make them more helpful
 
