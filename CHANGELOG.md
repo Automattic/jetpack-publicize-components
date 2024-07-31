@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Removed the media auto-conversion UI
 
 ### Fixed
+- Improved broken connection messaging for non-admins
 - Social | Fixed and improved media auto conversion notices
 
 ## [0.57.0] - 2024-07-29
