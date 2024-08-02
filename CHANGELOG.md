@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Added Social post UI modal and trigger
 - Social: Added settings section to the social post modal
 
+### Fixed
+- Fix the media validation notice for Instagram when SIG is enabled
+
 ## [0.58.0] - 2024-08-01
 ### Changed
 - Fixup versions [#38612]
