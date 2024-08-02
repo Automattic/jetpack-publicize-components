@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added feature flag management for social
+- Added Social post UI modal and trigger
 
 ## [0.58.0] - 2024-08-01
 ### Changed
