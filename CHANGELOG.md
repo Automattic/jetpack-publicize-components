@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added feature flag management for social
 - Added preview section to the social post modal
 - Added Social post UI modal and trigger
+- Added tracking for the publicize settings changes
 - Social: Added settings section to the social post modal
 
 ### Fixed
