@@ -10,7 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added connection toggle to social post preview
 - Added feature flag management for social
+- Added preview section to the social post modal
 - Added Social post UI modal and trigger
 - Social: Added settings section to the social post modal
 
