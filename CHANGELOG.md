@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Moved the connection notices in the editor
 - Updated the custom message placeholder
 
 ## [0.59.0] - 2024-08-05
