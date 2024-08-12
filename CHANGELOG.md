@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Hid most of the actions and notices when sharing is off
 - Moved the connection notices in the editor
+- Social: Updated intial state logic to use the new consolidated initial state
 - Updated the custom message placeholder
 
 ### Fixed
