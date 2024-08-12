@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed a UI issue in the editor
+- Fixed social post modal max-height
 - Social post UI: Fix connection toggle and media notice
 
 ## [0.59.0] - 2024-08-05
