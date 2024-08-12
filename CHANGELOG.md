@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated the custom message placeholder
 
 ### Fixed
+- Fixed a UI issue in the editor
 - Social post UI: Fix connection toggle and media notice
 
 ## [0.59.0] - 2024-08-05
