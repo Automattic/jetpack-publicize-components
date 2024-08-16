@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Updated package dependencies.
 
+### Fixed
+- Fixed a ui issue with the toggle naming
+
 ## [0.60.0] - 2024-08-12
 ### Changed
 - Hid most of the actions and notices when sharing is off [#38801]
