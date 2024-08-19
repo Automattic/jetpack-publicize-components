@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added a description for the social modal
 
 ### Changed
+- Social: Migrated services list to the initial state
 - Update dependencies.
 - Updated package dependencies.
 
