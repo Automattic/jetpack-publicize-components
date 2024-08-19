@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Updated package dependencies.
 
+### Removed
+- Remove the unused Advanced plan nudge
+
 ### Fixed
 - Fixed a ui issue with the toggle naming
 
