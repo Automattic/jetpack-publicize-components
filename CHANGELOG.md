@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed a ui issue with the toggle naming
+- Lossless image optimization for images (should improve performance with no visible changes).
 
 ## [0.60.0] - 2024-08-12
 ### Changed
