@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Remove the unused Advanced plan nudge
+- Social: Removed share limits UI and data logic
 
 ### Fixed
 - Fixed a ui issue with the toggle naming
