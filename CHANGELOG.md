@@ -5,16 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.62.0-alpha] - unreleased
+## [0.62.1-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Migrated shares data to the new script data
-- Social; Migrated the API paths from initial state to the new script data
+
+## [0.62.0] - 2024-08-21
+### Changed
+- Social: Migrated the API paths from initial state to the new script data. [#38962]
 
 ### Removed
-- Social: Removed share limits UI and data logic
+- Social: Removed share limits UI and data logic. [#38904]
 
 ## [0.61.0] - 2024-08-19
 ### Added
@@ -856,7 +859,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.62.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.61.0...v0.62.0-alpha
+[0.62.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.62.0...v0.62.1-alpha
+[0.62.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.61.0...v0.62.0
 [0.61.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.60.0...v0.61.0
 [0.60.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.59.0...v0.60.0
 [0.59.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.58.0...v0.59.0
