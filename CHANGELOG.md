@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added the new feature flag for the social share status
 
 ### Changed
+- Moved PostPublishPanels component to publicize-components package
 - Social: Migrated shares data to the new script data
 - Updated package dependencies.
 
