@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Social: Default to the current post ID for share status selector
 - Social: Updated the share status modal to render it globally
 
+### Fixed
+- Fixed a deadlock with media validation and media picker
+
 ## [0.63.0] - 2024-08-26
 ### Added
 - Added the new feature flag for the social share status [#39015]
