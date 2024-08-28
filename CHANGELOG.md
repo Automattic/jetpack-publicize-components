@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added share status info to Jetpack sidebar
+- Added usePostPrePublishValue hook
 
 ### Changed
 - Social: Default to the current post ID for share status selector
