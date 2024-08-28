@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added share status info to Jetpack sidebar
 
 ### Changed
+- Social: Default to the current post ID for share status selector
 - Social: Updated the share status modal to render it globally
 
 ## [0.63.0] - 2024-08-26
