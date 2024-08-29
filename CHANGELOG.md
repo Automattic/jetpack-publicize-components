@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed a deadlock with media validation and media picker
+- Fixed share status being shown even if no connection is enabled
 
 ## [0.63.0] - 2024-08-26
 ### Added
