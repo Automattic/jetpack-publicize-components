@@ -5,20 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.64.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.64.0] - 2024-08-29
 ### Added
-- Added share status info to Jetpack sidebar
-- Added usePostPrePublishValue hook
+- Added share status info to Jetpack sidebar [#39073]
+- Added usePostPrePublishValue hook [#39119]
 
 ### Changed
-- Social: Default to the current post ID for share status selector
-- Social: Updated the share status modal to render it globally
+- Social: Default to the current post ID for share status selector [#39112]
+- Social: Updated the share status modal to render it globally [#39116]
 
 ### Fixed
-- Fixed a deadlock with media validation and media picker
+- Fixed a deadlock with media validation and media picker [#38933]
 
 ## [0.63.0] - 2024-08-26
 ### Added
@@ -876,7 +873,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.64.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.63.0...v0.64.0-alpha
+[0.64.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.63.0...v0.64.0
 [0.63.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.62.0...v0.63.0
 [0.62.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.61.0...v0.62.0
 [0.61.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.60.0...v0.61.0
