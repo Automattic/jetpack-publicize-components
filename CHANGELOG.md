@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add share status log modal to published posts
 
+### Changed
+- Social: Renamed review sharing status to 'View sharing history'
+
 ### Fixed
 - Fixed share status being shown even if no connection is enabled
 
