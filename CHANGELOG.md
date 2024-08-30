@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fixed a bug on when to show the share log modal trigger
 - Fixed share status being shown even if no connection is enabled
+- Social: Improve ts error reporting in publicize
 
 ## [0.64.0] - 2024-08-29
 ### Added
