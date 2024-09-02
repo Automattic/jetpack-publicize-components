@@ -5,20 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.65.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.65.0] - 2024-09-02
 ### Added
-- Add share status log modal to published posts
+- Add share status log modal to published posts. [#39051]
 
 ### Changed
-- Social: Renamed review sharing status to 'View sharing history'
+- Social: Renamed review sharing status to 'View sharing history'. [#39150]
 
 ### Fixed
-- Fixed a bug on when to show the share log modal trigger
-- Fixed share status being shown even if no connection is enabled
-- Social: Improve ts error reporting in publicize
+- Fixed a bug on when to show the share log modal trigger. [#39135]
+- Fixed share status being shown even if no connection is enabled. [#39120]
+- Social: Improve ts error reporting in publicize. [#39133]
 
 ## [0.64.0] - 2024-08-29
 ### Added
@@ -888,7 +885,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.65.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.64.0...v0.65.0-alpha
+[0.65.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.64.0...v0.65.0
 [0.64.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.63.0...v0.64.0
 [0.63.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.62.0...v0.63.0
 [0.62.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.61.0...v0.62.0
