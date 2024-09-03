@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added the functionality to reshare from the modal
 
+### Fixed
+- Fixed unnececarry call to API if feature flag is off
+
 ## [0.65.0] - 2024-09-02
 ### Added
 - Add share status log modal to published posts. [#39051]
