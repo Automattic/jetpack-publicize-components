@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added the functionality to reshare from the modal
 
+### Changed
+- Updated package dependencies.
+
 ### Fixed
 - Fixed unnececarry call to API if feature flag is off
 
