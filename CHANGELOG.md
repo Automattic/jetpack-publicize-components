@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fixed resharing for jetpack sites when only social plugin is active
 - Fixed unnececarry call to API if feature flag is off
+- Social: Improved polling performance for share status
 
 ## [0.65.0] - 2024-09-02
 ### Added
