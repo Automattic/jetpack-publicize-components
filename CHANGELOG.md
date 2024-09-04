@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added the functionality to reshare from the modal
+- Poll for share status after reshare
 
 ### Changed
 - Updated package dependencies.
