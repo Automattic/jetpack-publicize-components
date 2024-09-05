@@ -19,10 +19,10 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.31",
-		"@automattic/jetpack-components": "^0.55.13-alpha",
-		"@automattic/jetpack-connection": "^0.35.5-alpha",
+		"@automattic/jetpack-components": "^0.55.13",
+		"@automattic/jetpack-connection": "^0.35.5",
 		"@automattic/jetpack-script-data": "^0.1.2",
-		"@automattic/jetpack-shared-extension-utils": "^0.15.7-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.15.7",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.1.0-beta.6",
 		"@wordpress/annotations": "3.6.0",
