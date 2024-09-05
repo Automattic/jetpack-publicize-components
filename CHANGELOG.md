@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Poll for share status after reshare
 
 ### Changed
+- Made resharing async
 - Updated package dependencies.
 
 ### Fixed
