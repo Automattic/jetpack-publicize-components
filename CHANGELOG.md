@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Updated share status modal to use dataviews
+
 ## [0.66.0] - 2024-09-05
 ### Added
 - Added the functionality to reshare from the modal [#39157]
