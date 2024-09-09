@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Social: Fixed multiple issues in share status retry UI and logic
+
 ## [0.66.1] - 2024-09-06
 ### Added
 - Social: Added polling flag for share status for better UI [#39265]
