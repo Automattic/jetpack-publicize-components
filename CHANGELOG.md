@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Social: Share status | Updated retry to show spinner and start polling
+
 ### Changed
 - Updated package dependencies.
 
