@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Share status | Updated retry to show spinner and start polling
 
 ### Changed
+- Social: Disable reshare button and hide post publish share status when all the enabled connections are invalid
 - Updated package dependencies.
 
 ### Fixed
