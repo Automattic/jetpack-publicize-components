@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Disable reshare button and hide post publish share status when all the enabled connections are invalid
+- Social: Migrated useAdminUiV1 feature flag to new script data
 - Updated package dependencies.
 
 ### Fixed
