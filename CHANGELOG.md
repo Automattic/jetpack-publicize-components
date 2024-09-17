@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added tracking for the resharing action
 
+### Changed
+- Social: Migrated useShareStatus feature flag to new script data
+
 ## [0.69.0] - 2024-09-16
 ### Added
 - Social: Share status | Updated retry to show spinner and start polling [#39293]
