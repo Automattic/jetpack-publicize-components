@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Social: Migrated useEditorPreview feature flag to new script data
 - Social: Migrated useShareStatus feature flag to new script data
 
+### Fixed
+- Social: Updated social previews button styles to fit the translated string
+
 ## [0.69.0] - 2024-09-16
 ### Added
 - Social: Share status | Updated retry to show spinner and start polling [#39293]
