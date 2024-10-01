@@ -12,8 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Social: Added support for Bluesky
 
+## [0.70.1] - 2024-09-30
 ### Changed
-- Update dependencies.
+- Update dependencies. [#39528]
 
 ## [0.70.0] - 2024-09-23
 ### Added
@@ -954,7 +955,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.71.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.70.0...v0.71.0-alpha
+[0.71.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.70.1...v0.71.0-alpha
+[0.70.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.70.0...v0.70.1
 [0.70.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.69.0...v0.70.0
 [0.69.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.68.0...v0.69.0
 [0.68.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.67.0...v0.68.0
