@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Social: Fixed share status tooltip text overflow
+
 ## [0.71.0] - 2024-10-01
 ### Added
 - Social: Added support for Bluesky [#39561]
