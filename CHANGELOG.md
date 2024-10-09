@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Fixed
+- Add missing deps in calls to the `useSelect` React hook.
 - Social: Updated the check to see if Bluesky is already connected
 
 ## [0.71.1] - 2024-10-07
