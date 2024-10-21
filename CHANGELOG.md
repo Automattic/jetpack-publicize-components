@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Initial State: Migrated URLs to script data
 - Update dependencies.
 
+### Fixed
+- Social: Fixed Bluesky display name when it's not set in Bluesky profile
+
 ## [0.71.2] - 2024-10-14
 ### Added
 - Social: Added Bluesky to social previews. [#39659]
