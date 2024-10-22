@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 
 ### Fixed
+- Fixed reconnection for broken Bluesky connections
 - Social: Fixed Bluesky display name when it's not set in Bluesky profile
 
 ## [0.71.2] - 2024-10-14
