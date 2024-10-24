@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial state: Migrated isEnhancedPublishingEnabled to feature check
 
 ### Fixed
+- Fixed Bsky conneciton management profile name
 - Fixed reconnection for broken Bluesky connections
 - Social: Fixed Bluesky custom domain handle not being accepted
 
