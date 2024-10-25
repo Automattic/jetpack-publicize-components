@@ -5,17 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.71.4-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.71.4] - 2024-10-25
 ### Changed
-- Initial state: Migrated isEnhancedPublishingEnabled to feature check
+- Initial state: Migrated isEnhancedPublishingEnabled to feature check [#39835]
 
 ### Fixed
-- Fixed Bsky conneciton management profile name
-- Fixed reconnection for broken Bluesky connections
-- Social: Fixed Bluesky custom domain handle not being accepted
+- Fixed Bsky conneciton management profile name [#39889]
+- Fixed reconnection for broken Bluesky connections [#39844]
+- Social: Fixed Bluesky custom domain handle not being accepted [#39872]
 
 ## [0.71.3] - 2024-10-21
 ### Changed
@@ -990,7 +987,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.71.4-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.3...v0.71.4-alpha
+[0.71.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.3...v0.71.4
 [0.71.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.2...v0.71.3
 [0.71.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.1...v0.71.2
 [0.71.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.0...v0.71.1
