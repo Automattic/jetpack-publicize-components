@@ -5,21 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.72.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.72.0] - 2024-11-04
 ### Added
-- Enable test coverage.
+- Enable test coverage. [#39961]
 
 ### Changed
-- Changed order of social connections.
-- Social: Migrated Social Image Generator settings to new store
+- Change order of social connections. [#40020]
+- Social: Migrate Social Image Generator settings to new store. [#39904]
 
 ### Fixed
-- Fixed dataviews styles imported in share status being added globally
-- Social: Fixed empty whitespace in Bluesky and Mastodon connection forms
-- Social: Fixed the Instagram max video length
+- Fix dataviews styles imported in share status being added globally. [#39991]
+- Social: Fix empty whitespace in Bluesky and Mastodon connection forms. [#39984]
+- Social: Fix the Instagram max video length. [#39930]
 
 ## [0.71.5] - 2024-10-29
 ### Changed
@@ -1007,7 +1004,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.72.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.5...v0.72.0-alpha
+[0.72.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.5...v0.72.0
 [0.71.5]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.4...v0.71.5
 [0.71.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.3...v0.71.4
 [0.71.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.2...v0.71.3
