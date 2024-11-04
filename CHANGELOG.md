@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed dataviews styles imported in share status being added globally
+- Social: Fixed empty whitespace in Bluesky and Mastodon connection forms
 - Social: Fixed the Instagram max video length
 
 ## [0.71.5] - 2024-10-29
