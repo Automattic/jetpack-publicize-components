@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.71.6-alpha] - unreleased
+## [0.72.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Enable test coverage.
 
 ### Changed
+- Changed order of social connections.
 - Social: Migrated Social Image Generator settings to new store
 
 ### Fixed
@@ -1005,7 +1006,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.71.6-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.5...v0.71.6-alpha
+[0.72.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.5...v0.72.0-alpha
 [0.71.5]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.4...v0.71.5
 [0.71.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.3...v0.71.4
 [0.71.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.2...v0.71.3
