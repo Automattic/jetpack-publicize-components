@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Clean up social store
 - Migrated social plugins settings to new script data
+- Social: Migrated the last bits of social store to new script data
 - Updated package dependencies.
 
 ## [0.72.0] - 2024-11-04
