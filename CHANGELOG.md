@@ -5,9 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.72.2-alpha] - unreleased
+## [0.73.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
+
+### Added
+- Added toggle for UTM settings
 
 ### Changed
 - Removed some unused code for Social
@@ -1017,7 +1020,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.72.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.72.1...v0.72.2-alpha
+[0.73.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.72.1...v0.73.0-alpha
 [0.72.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.72.0...v0.72.1
 [0.72.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.5...v0.72.0
 [0.71.5]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.71.4...v0.71.5
