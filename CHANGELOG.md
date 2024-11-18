@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Removed some unused code for Social
 
+### Fixed
+- Add missing ids to radio buttons in the confirmation form.
+
 ## [0.72.1] - 2024-11-11
 ### Changed
 - Social: Clean up social store. [#40033]
