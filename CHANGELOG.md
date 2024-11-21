@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated package dependencies.
+
 ### Fixed
 - Add missing ids to radio buttons in the confirmation form.
 - Fixed TS errors following @wordpress/editor update
