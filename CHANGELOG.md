@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Add missing ids to radio buttons in the confirmation form.
+- Fixed TS errors following @wordpress/editor update
 
 ## [0.73.0] - 2024-11-18
 ### Added
