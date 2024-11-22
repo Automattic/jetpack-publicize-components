@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Add missing ids to radio buttons in the confirmation form.
+- Decode entities in post titles and descriptions for social previews.
 - Fixed TS errors following @wordpress/editor update
 
 ## [0.73.0] - 2024-11-18
