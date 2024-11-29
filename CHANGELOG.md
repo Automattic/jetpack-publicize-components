@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social | Updated messaging for async sharing in block editor
+- Updated @wordpress/editor to the latest version
 
 ## [0.74.1] - 2024-11-26
 ### Changed
