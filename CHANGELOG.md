@@ -5,13 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.74.2-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.74.2] - 2024-12-02
 ### Changed
-- Social | Updated messaging for async sharing in block editor
-- Updated @wordpress/editor to the latest version
+- Updated messaging for async sharing in block editor. [#40302]
+- Updated @wordpress/editor to the latest version. [#40373]
 
 ## [0.74.1] - 2024-11-26
 ### Changed
@@ -19,7 +16,7 @@ This is an alpha version! The changes listed here are not final.
 
 ## [0.74.0] - 2024-11-25
 ### Added
-- Added warnings when linkedin permission is cached [#40220]
+- Added warnings when linkedin permission is cached. [#40220]
 
 ### Changed
 - Updated package dependencies. [#40288]
@@ -27,7 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Add missing ids to radio buttons in the confirmation form. [#40199]
 - Decode entities in post titles and descriptions for social previews. [#40256]
-- Fixed TS errors following @wordpress/editor update [#40291]
+- Fixed TS errors following @wordpress/editor update. [#40291]
 
 ## [0.73.0] - 2024-11-18
 ### Added
@@ -1036,7 +1033,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.74.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.1...v0.74.2-alpha
+[0.74.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.1...v0.74.2
 [0.74.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.0...v0.74.1
 [0.74.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.73.0...v0.74.0
 [0.73.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.72.1...v0.73.0
