@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed text domain from 'jetpack' to 'jetpack-publicize-components'.
+- Updated package dependencies.
 
 ## [0.74.2] - 2024-12-02
 ### Changed
