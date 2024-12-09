@@ -5,13 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.75.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.75.0] - 2024-12-09
 ### Changed
-- Changed text domain from 'jetpack' to 'jetpack-publicize-components'.
-- Updated package dependencies.
+- Changed text domain from 'jetpack' to 'jetpack-publicize-components'. [#40368]
+- Updated package dependencies. [#40363]
 
 ## [0.74.2] - 2024-12-02
 ### Changed
@@ -1041,7 +1038,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.75.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.2...v0.75.0-alpha
+[0.75.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.2...v0.75.0
 [0.74.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.1...v0.74.2
 [0.74.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.74.0...v0.74.1
 [0.74.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.73.0...v0.74.0
