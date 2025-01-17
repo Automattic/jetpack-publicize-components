@@ -23,7 +23,7 @@
 		"@automattic/jetpack-components": "^0.65.4-alpha",
 		"@automattic/jetpack-connection": "^0.36.3",
 		"@automattic/jetpack-script-data": "^0.1.7-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^0.17.0-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^0.16.3",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.1.0-beta.8",
 		"@wordpress/annotations": "3.14.0",
