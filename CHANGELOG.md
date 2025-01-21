@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.76.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Social | Unify connections management API schema
+
 ## [0.75.4] - 2025-01-20
 ### Changed
 - Updated package dependencies. [#41099]
@@ -1054,6 +1061,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.76.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.4...v0.76.0-alpha
 [0.75.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.3...v0.75.4
 [0.75.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.2...v0.75.3
 [0.75.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.1...v0.75.2

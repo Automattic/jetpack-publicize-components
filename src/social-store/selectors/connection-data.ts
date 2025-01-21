@@ -1,5 +1,8 @@
-import { checkConnectionCode } from '../../utils/connections';
+import { getScriptData } from '@automattic/jetpack-script-data';
+import { store as coreStore } from '@wordpress/core-data';
+import { createRegistrySelector } from '@wordpress/data';
 import { REQUEST_TYPE_DEFAULT } from '../actions/constants';
+import { Connection, SocialStoreState } from '../types';
 
 /**
  * Returns the connections list from the store.
@@ -8,7 +11,7 @@ import { REQUEST_TYPE_DEFAULT } from '../actions/constants';
  *
  * @return {Array<import("../types").Connection>} The connections list
  */
-export function getConnections( state ) {
+export function getConnections( state: SocialStoreState ) {
 	return state.connectionData?.connections ?? [];
 }
 
@@ -32,13 +35,7 @@ export function getConnectionById( state, connectionId ) {
  */
 export function getBrokenConnections( state ) {
 	return getConnections( state ).filter( connection => {
-		return (
-			connection.status === 'broken' ||
-			// This is a legacy check for connections that are not healthy.
-			// TODO remove this check when we are sure that all connections have
-			// the status property (same schema for connections endpoints), e.g. on Simple/Atomic sites
-			checkConnectionCode( connection, 'broken' )
-		);
+		return connection.status === 'broken';
 	} );
 }
 
@@ -48,7 +45,7 @@ export function getBrokenConnections( state ) {
  * @param {import("../types").SocialStoreState} state       - State object.
  * @param {string}                              serviceName - The service name.
  *
- * @return {Array<import("../types").Connections>} The connections.
+ * @return {Array<import("../types").Connection>} The connections.
  */
 export function getConnectionsByService( state, serviceName ) {
 	return getConnections( state ).filter( ( { service_name } ) => service_name === serviceName );
@@ -72,12 +69,12 @@ export function hasConnections( state ) {
 export function getFailedConnections( state ) {
 	const connections = getConnections( state );
 
-	return connections.filter( connection => false === connection.test_success );
+	return connections.filter( connection => 'broken' === connection.status );
 }
 
 /**
  * Returns a list of Publicize connection service names that require reauthentication from users.
- * iFor example, when LinkedIn switched its API from v1 to v2.
+ * For example, when LinkedIn switched its API from v1 to v2.
  *
  * @param {import("../types").SocialStoreState} state - State object.
  * @return {Array<import("../types").Connection>} List of service names that need reauthentication.
@@ -85,7 +82,7 @@ export function getFailedConnections( state ) {
 export function getMustReauthConnections( state ) {
 	const connections = getConnections( state );
 	return connections
-		.filter( connection => 'must_reauth' === connection.test_success )
+		.filter( connection => 'must_reauth' === connection.status )
 		.map( connection => connection.service_name );
 }
 
@@ -132,22 +129,11 @@ export function getConnectionProfileDetails( state, service, { forceDefaults = f
 		);
 
 		if ( connection ) {
-			const {
-				display_name,
-				profile_display_name,
-				profile_picture,
-				external_display,
-				external_name,
-			} = connection;
+			const { display_name, profile_picture, external_handle } = connection;
 
-			displayName = 'twitter' === service ? profile_display_name : display_name || external_display;
-			username = 'twitter' === service ? display_name : connection.username;
+			displayName = display_name;
+			username = external_handle;
 			profileImage = profile_picture;
-
-			// Connections schema is a mess
-			if ( 'bluesky' === service ) {
-				username = external_name;
-			}
 		}
 	}
 
@@ -199,14 +185,14 @@ export function getAbortControllers( state, requestType = REQUEST_TYPE_DEFAULT )
 /**
  * Whether a mastodon account is already connected.
  *
- * @param {import("../types").SocialStoreState} state    - State object.
- * @param {string}                              username - The mastodon username.
+ * @param {import("../types").SocialStoreState} state  - State object.
+ * @param {string}                              handle - The mastodon handle.
  *
  * @return {boolean} Whether the mastodon account is already connected.
  */
-export function isMastodonAccountAlreadyConnected( state, username ) {
+export function isMastodonAccountAlreadyConnected( state, handle ) {
 	return getConnectionsByService( state, 'mastodon' ).some( connection => {
-		return connection.external_display === username;
+		return connection.external_handle === handle;
 	} );
 }
 
@@ -220,7 +206,7 @@ export function isMastodonAccountAlreadyConnected( state, username ) {
  */
 export function isBlueskyAccountAlreadyConnected( state, handle ) {
 	return getConnectionsByService( state, 'bluesky' ).some( connection => {
-		return connection.external_name === handle;
+		return connection.external_handle === handle;
 	} );
 }
 
@@ -244,3 +230,32 @@ export function getKeyringResult( state ) {
 export function isConnectionsModalOpen( state ) {
 	return state.connectionData?.isConnectionsModalOpen ?? false;
 }
+
+/**
+ * Whether the current user can manage the connection.
+ */
+export const canUserManageConnection = createRegistrySelector(
+	select =>
+		( state: SocialStoreState, connectionOrId: Connection | string ): boolean => {
+			const connection =
+				typeof connectionOrId === 'string'
+					? getConnectionById( state, connectionOrId )
+					: connectionOrId;
+
+			const { current_user } = getScriptData().user;
+
+			// If the current user is the connection owner.
+			if ( current_user.wpcom?.ID === connection.wpcom_user_id ) {
+				return true;
+			}
+
+			const {
+				// @ts-expect-error getUser exists but `core-data` entities are not typed properly.
+				// Should work fine after https://github.com/WordPress/gutenberg/pull/67668 is released to npm.
+				getUser,
+			} = select( coreStore );
+
+			// The user has to be at least an editor to manage the connection.
+			return getUser( current_user.id )?.capabilities?.edit_others_posts ?? false;
+		}
+);
