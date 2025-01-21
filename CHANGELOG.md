@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Moved the Social admin page to the publicize-components package
 - Refactored Social Note settings to use core
 - Social | Unify connections management API schema
 
