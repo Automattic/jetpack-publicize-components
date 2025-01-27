@@ -5,14 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.76.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.76.0] - 2025-01-27
 ### Changed
-- Moved the Social admin page to the publicize-components package
-- Refactored Social Note settings to use core
-- Social | Unify connections management API schema
+- Moved the Social admin page to the publicize-components package [#41181]
+- Refactored Social Note settings to use core [#41153]
+- Social | Unify connections management API schema [#40679]
 
 ## [0.75.4] - 2025-01-20
 ### Changed
@@ -1063,7 +1060,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.76.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.4...v0.76.0-alpha
+[0.76.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.4...v0.76.0
 [0.75.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.3...v0.75.4
 [0.75.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.2...v0.75.3
 [0.75.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.75.1...v0.75.2
