@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Moved Social admin page code and assets logic to publicize package
+- Move initial state from Social plugin to publicize package
 
 ## [0.76.0] - 2025-01-27
 ### Changed
