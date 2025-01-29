@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Moved Social admin page code and assets logic to publicize package
 - Move initial state from Social plugin to publicize package
+- Replace getSite selector with getEntityRecord to avoid redundant API calls
 
 ## [0.76.0] - 2025-01-27
 ### Changed
