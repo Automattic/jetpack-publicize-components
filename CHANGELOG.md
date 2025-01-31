@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Moved Social admin page code and assets logic to publicize package
 - Move initial state from Social plugin to publicize package
 - Replace getSite selector with getEntityRecord to avoid redundant API calls
+- Social | Move settings endpoint to publicize package
 
 ### Removed
 - Social Previews | Remove "Your post" section in favour of Social Post UI
