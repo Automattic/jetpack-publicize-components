@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Replace getSite selector with getEntityRecord to avoid redundant API calls
 - Social post character limits are now dynamic based on selected connections
 - Social | Move settings endpoint to publicize package
+- Update the settings endppoint to use existing endpoints
 
 ### Removed
 - Social Previews | Remove "Your post" section in favour of Social Post UI
