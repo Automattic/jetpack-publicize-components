@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - External Media: Move the external-media to the new @automattic/jetpack-external-media package
+- Hide Social Notes if Social plugin is not active
 - Updated package dependencies.
 
 ## [0.77.0] - 2025-02-03
