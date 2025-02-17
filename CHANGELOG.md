@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Social | Hide mark as shared UI if the user cannot share connection
 
+### Fixed
+- Social | Hide upgrade nudge for Atomic sites
+
 ## [0.77.2] - 2025-02-11
 ### Changed
 - Hide Social Notes if Social plugin is not active. [#41393]
