@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added support for Bluesky video selection
 
 ### Fixed
+- Social Previews | Fixed distorted image for Tumblr preview
 - Social | Hide upgrade nudge for Atomic sites
 
 ## [0.78.0] - 2025-02-17
