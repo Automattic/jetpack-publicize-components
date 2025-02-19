@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Social Previews | Fixed distorted image for Tumblr preview
+- Social | Fix plugin version in admin page footer
 - Social | Hide upgrade nudge for Atomic sites
 
 ## [0.78.0] - 2025-02-17
