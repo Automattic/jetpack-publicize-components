@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added support for Bluesky video selection
 
 ### Fixed
+- Fixed an issue with unsupported connection showing up
 - Social Previews | Fixed distorted image for Tumblr preview
 - Social | Fix plugin version in admin page footer
 - Social | Hide upgrade nudge for Atomic sites
