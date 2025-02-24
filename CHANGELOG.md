@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added support for Bluesky video selection
+- Social: Updated the admin page for use by Editors and Authors
 
 ### Fixed
 - Fixed an issue with unsupported connection showing up
