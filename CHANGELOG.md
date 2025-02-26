@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Security
 - Social: Moved Mastodon input form to start
 
+### Added
+- Added unit tests for the admin page
+
 ### Changed
 - Social | Improve connect URL generation
 
