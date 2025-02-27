@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 - Social | Improve connect URL generation
 - Update package dependencies.
 
+### Fixed
+- Clean up Social admin page unit tests
+
 ## [0.79.0] - 2025-02-24
 ### Added
 - Add support for Bluesky video selection. [#41669]
