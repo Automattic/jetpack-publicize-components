@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Clean up Social admin page unit tests
+- Social | Avoid calling the settings endpoint on Social admin page if not relevant
 
 ## [0.79.0] - 2025-02-24
 ### Added
