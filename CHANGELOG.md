@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added unit tests for the admin page
+- Publicize Components: Add Storybook support
 
 ### Changed
 - Social | Improve connect URL generation
