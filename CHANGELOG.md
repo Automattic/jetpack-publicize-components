@@ -5,11 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.80.1-alpha] - unreleased
+## [0.81.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added the ConnectionList and Item components
 - Add scheduled post components
 
 ### Changed
@@ -1132,7 +1133,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.80.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.80.0...v0.80.1-alpha
+[0.81.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.80.0...v0.81.0-alpha
 [0.80.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.79.0...v0.80.0
 [0.79.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.78.0...v0.79.0
 [0.78.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.77.2...v0.78.0
