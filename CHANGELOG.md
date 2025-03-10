@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Cleaned up the MessageBoxControl component
+- Moved the Social resharing into the social post modal
 - Social | Moved JS editor code from Jetpack and Social to Publicize package
 - Update package dependencies.
 
