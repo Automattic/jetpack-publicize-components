@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Add scheduled post components
 
 ### Changed
+- Cleaned up the MessageBoxControl component
 - Social | Moved JS editor code from Jetpack and Social to Publicize package
 - Update package dependencies.
 
