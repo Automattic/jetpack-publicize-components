@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added the ConnectionList and Item components
+- Added the TabbedModal pure component
 - Add scheduled post components
 
 ### Changed
