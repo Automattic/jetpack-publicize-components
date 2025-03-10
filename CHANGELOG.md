@@ -5,20 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.81.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.81.0] - 2025-03-10
 ### Added
-- Added the ConnectionList and Item components
-- Added the TabbedModal pure component
-- Add scheduled post components
+- Social: Add the ConnectionList and Item components. [#42233]
+- Social: Add the TabbedModal pure component. [#42298]
+- Social: Add scheduled post components. [#42221]
 
 ### Changed
-- Cleaned up the MessageBoxControl component
-- Moved the Social resharing into the social post modal
-- Social | Moved JS editor code from Jetpack and Social to Publicize package
-- Update package dependencies.
+- Social: Clean up the MessageBoxControl component. [#42253]
+- Social: Move resharing into the post modal. [#42224]
+- Social: Move JS editor code from Jetpack and Social to Publicize package. [#41836]
+- Update package dependencies. [#42162]
 
 ## [0.80.0] - 2025-03-03
 ### Security
@@ -1136,7 +1133,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.81.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.80.0...v0.81.0-alpha
+[0.81.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.80.0...v0.81.0
 [0.80.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.79.0...v0.80.0
 [0.79.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.78.0...v0.79.0
 [0.78.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.77.2...v0.78.0
