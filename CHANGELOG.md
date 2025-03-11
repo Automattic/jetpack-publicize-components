@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a helper function to get the max message length
+- Added internal state for the ScheduleButton component
 - Publicize Components: Add the schedule button
 - Social | Configure data store to handle scheduled shares
 
