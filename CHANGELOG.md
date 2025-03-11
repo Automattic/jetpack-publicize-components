@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added a helper function to get the max message length
+- Social | Configure data store to handle scheduled shares
 
 ## [0.81.0] - 2025-03-10
 ### Added
