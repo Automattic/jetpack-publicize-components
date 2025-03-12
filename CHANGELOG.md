@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Publicize Components: Add the schedule button
 - Social | Configure data store to handle scheduled shares
 
+### Changed
+- Update package dependencies.
+
 ## [0.81.0] - 2025-03-10
 ### Added
 - Social: Add the ConnectionList and Item components. [#42233]
