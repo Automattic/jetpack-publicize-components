@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added internal state for the ScheduleButton component
 - Provide connection data to footer component.
 - Publicize Components: Add the schedule button
+- Social | Add scheduled posts panel
 - Social | Configure data store to handle scheduled shares
 
 ### Changed
