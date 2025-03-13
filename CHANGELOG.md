@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Configure data store to handle scheduled shares
 
 ### Changed
+- ScheduleButton: Prevent date/times in the past from being selected
 - Social | Migrate review prompt initial state to script data
 - Update package dependencies.
 
