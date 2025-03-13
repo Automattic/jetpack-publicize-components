@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Social | Configure data store to handle scheduled shares
 
 ### Changed
+- Social | Migrate review prompt initial state to script data
 - Update package dependencies.
 
 ## [0.81.0] - 2025-03-10
