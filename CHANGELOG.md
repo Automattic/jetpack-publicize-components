@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - ScheduleButton: Prevent date/times in the past from being selected
 - Social | Migrate review prompt initial state to script data
 
+### Fixed
+- Social | Fix connecting LinkedIn company pages and Tumblr additional blogs
+
 ## [0.82.0] - 2025-03-12
 ### Added
 - Add a helper function to get the max message length [#42325]
