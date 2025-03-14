@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - ScheduleButton: Prevent date/times in the past from being selected
+- Social | Change the query parameter to open Jetpack sidebar on editor load
 - Social | Migrate review prompt initial state to script data
 
 ### Removed
