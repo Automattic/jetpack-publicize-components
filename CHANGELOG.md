@@ -5,25 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.83.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.83.0] - 2025-03-17
 ### Added
-- Added schedule post functionality to the share post modal
-- Social | Add scheduled posts panel
+- Added schedule post functionality to the share post modal [#42376]
+- Social | Add scheduled posts panel [#42297]
 
 ### Changed
-- ScheduleButton: Prevent date/times in the past from being selected
-- Social | Change the query parameter to open Jetpack sidebar on editor load
-- Social | Migrate review prompt initial state to script data
+- ScheduleButton: Prevent date/times in the past from being selected [#42381]
+- Social | Change the query parameter to open Jetpack sidebar on editor load [#42364]
+- Social | Migrate review prompt initial state to script data [#42389]
 
 ### Removed
-- Social : Connections schema: Remove the deprecated fields
+- Social : Connections schema: Remove the deprecated fields [#42454]
 
 ### Fixed
-- Fixed a deadlock with the media picker
-- Social | Fix connecting LinkedIn company pages and Tumblr additional blogs
+- Fixed a deadlock with the media picker [#42455]
+- Social | Fix connecting LinkedIn company pages and Tumblr additional blogs [#42352]
 
 ## [0.82.0] - 2025-03-12
 ### Added
@@ -1164,7 +1161,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.83.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.82.0...v0.83.0-alpha
+[0.83.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.82.0...v0.83.0
 [0.82.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.81.0...v0.82.0
 [0.81.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.80.0...v0.81.0
 [0.80.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.79.0...v0.80.0
