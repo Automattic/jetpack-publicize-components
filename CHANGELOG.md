@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Social : Connections schema: Remove the deprecated fields
 
 ### Fixed
+- Fixed a deadlock with the media picker
 - Social | Fix connecting LinkedIn company pages and Tumblr additional blogs
 
 ## [0.82.0] - 2025-03-12
