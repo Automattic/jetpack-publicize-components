@@ -5,11 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.83.2-alpha] - unreleased
+## [0.84.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Moved the jetpack-social endpoint ot the publicize package
 - Social | Use service status to display unsupported networks notice
 - Update package dependencies.
 
@@ -1173,7 +1174,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.83.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.83.1...v0.83.2-alpha
+[0.84.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.83.1...v0.84.0-alpha
 [0.83.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.83.0...v0.83.1
 [0.83.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.82.0...v0.83.0
 [0.82.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.81.0...v0.82.0
