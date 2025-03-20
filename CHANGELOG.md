@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: SIG on WPCOM - Update the endpoint used on the front-end
 
 ### Fixed
+- Jetpack Social: fix sidebar panel toggle and connection button styles
 - ScheduleButton: Updated the tests to correctly `await` the asynchronous calls
 - Social: Fix Twitter unsupported notice shown in the editor
 
