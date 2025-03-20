@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: SIG on WPCOM - Update the endpoint used on the front-end
 
 ### Fixed
+- ScheduleButton: Updated the tests to correctly `await` the asynchronous calls
 - Social: Fix Twitter unsupported notice shown in the editor
 
 ## [0.84.1] - 2025-03-19
