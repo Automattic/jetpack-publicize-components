@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Social: SIG on WPCOM - Update the endpoint used on the front-end
+
 ### Fixed
 - Social: Fix Twitter unsupported notice shown in the editor
 
