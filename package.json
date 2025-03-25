@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.36",
-		"@automattic/jetpack-components": "^0.70.2-alpha",
+		"@automattic/jetpack-components": "^0.71.0-alpha",
 		"@automattic/jetpack-connection": "^0.39.5",
 		"@automattic/jetpack-script-data": "^0.3.0",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.6",
