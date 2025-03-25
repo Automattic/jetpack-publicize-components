@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update dependencies.
 
+### Fixed
+- Fixed deprecation warnings for edit-post package
+
 ## [0.84.3] - 2025-03-24
 ### Changed
 - Update dependencies. [#39855]
