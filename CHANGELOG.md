@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed deprecation warnings for edit-post package
+- Social: Fix editor crash on p2 for old package versions
 
 ## [0.84.3] - 2025-03-24
 ### Changed
