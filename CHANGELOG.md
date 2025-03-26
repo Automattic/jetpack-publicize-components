@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 
 ### Fixed
+- Components: Add __next40pxDefaultSize to controls, preventing deprecation notices.
 - Fixed deprecation warnings for edit-post package
 - Social: Fix editor crash on p2 for old package versions
 
