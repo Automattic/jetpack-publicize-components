@@ -20,10 +20,10 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.36",
-		"@automattic/jetpack-components": "^0.71.0-alpha",
-		"@automattic/jetpack-connection": "^0.39.5",
+		"@automattic/jetpack-components": "^0.71.0",
+		"@automattic/jetpack-connection": "^0.39.6",
 		"@automattic/jetpack-script-data": "^0.3.0",
-		"@automattic/jetpack-shared-extension-utils": "^0.18.6",
+		"@automattic/jetpack-shared-extension-utils": "^0.18.7",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.1.0-beta.10",
 		"@wordpress/annotations": "3.19.0",
