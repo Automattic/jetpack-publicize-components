@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Components: Add __next40pxDefaultSize to controls, preventing deprecation notices.
 - Fixed deprecation warnings for edit-post package
+- Fixed performance issues with Social store
 - Social: Fix editor crash on p2 for old package versions
 
 ## [0.84.3] - 2025-03-24
