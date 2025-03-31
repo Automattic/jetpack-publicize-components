@@ -5,19 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.84.4-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.84.4] - 2025-03-31
 ### Changed
-- Social: Replace the Social UI in Sharing settings with a link to the Social admin page
-- Update dependencies.
+- Social: Replace the Social UI in Sharing settings with a link to the Social admin page. [#42761]
+- Update dependencies. [#42678]
 
 ### Fixed
-- Components: Add __next40pxDefaultSize to controls, preventing deprecation notices.
-- Fixed deprecation warnings for edit-post package
-- Fixed performance issues with Social store
-- Social: Fix editor crash on p2 for old package versions
+- Components: Prevent deprecation notices by adding `__next40pxDefaultSize` to controls. [#42677]
+- Fix deprecation warnings by replacing `@wordpress/edit-post` package. [#42634]
+- Fix performance issues with Social store. [#42633]
+- Social: Fix editor crash on p2 with old package versions. [#42694]
 
 ## [0.84.3] - 2025-03-24
 ### Changed
@@ -34,7 +31,7 @@ This is an alpha version! The changes listed here are not final.
 
 ## [0.84.1] - 2025-03-19
 ### Changed
-- Update dependencies [#42564]
+- Update dependencies. [#42564]
 
 ## [0.84.0] - 2025-03-18
 ### Changed
@@ -1202,7 +1199,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.84.4-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.3...v0.84.4-alpha
+[0.84.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.3...v0.84.4
 [0.84.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.2...v0.84.3
 [0.84.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.1...v0.84.2
 [0.84.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.0...v0.84.1
