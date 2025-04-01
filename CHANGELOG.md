@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.84.5-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Update dependencies.
+
 ## [0.84.4] - 2025-03-31
 ### Changed
 - Social: Replace the Social UI in Sharing settings with a link to the Social admin page. [#42761]
@@ -1199,6 +1206,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies. [#24470]
 
+[0.84.5-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.4...v0.84.5-alpha
 [0.84.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.3...v0.84.4
 [0.84.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.2...v0.84.3
 [0.84.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.1...v0.84.2
