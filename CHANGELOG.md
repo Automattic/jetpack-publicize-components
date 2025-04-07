@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Update package dependencies.
 
+### Fixed
+- Fixed TS type checking in the monorepo
+
 ## [0.84.4] - 2025-03-31
 ### Changed
 - Social: Replace the Social UI in Sharing settings with a link to the Social admin page. [#42761]
