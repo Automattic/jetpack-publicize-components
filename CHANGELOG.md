@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added share status support for WPCOM sites
 
+### Changed
+- Social: Disabled retry in share status when resharing is not supported.
+
 ### Fixed
 - Social | Fix Manual Sharing not being visible on post publish screen
 
