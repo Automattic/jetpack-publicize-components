@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Disabled retry in share status when resharing is not supported.
 
 ### Fixed
+- Code: Update stylesheets to use WordPress font styles.
 - Social | Fix Manual Sharing not being visible on post publish screen
 
 ## [0.84.5] - 2025-04-07
