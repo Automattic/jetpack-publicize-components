@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
+- Social: Fix share status typo and button style
 - Social | Fix Manual Sharing not being visible on post publish screen
 
 ## [0.84.5] - 2025-04-07
