@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
 - Linting: Clean up various Styleline violations.
+- Linting: Use double colon notation for pseudo-element selectors.
 - Social: Fix share status typo and button style
 - Social | Fix Manual Sharing not being visible on post publish screen
 
