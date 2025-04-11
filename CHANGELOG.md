@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Pricing Page: Swap to using the My Jetpack endpoint for pricing information
 - Social: Disabled retry in share status when resharing is not supported.
+- Social: Use siteHasFeature utility for share status feature check
 
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.
