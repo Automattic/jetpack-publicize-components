@@ -23,7 +23,7 @@
 		"@automattic/jetpack-analytics": "^0.1.36",
 		"@automattic/jetpack-components": "^0.72.5-alpha",
 		"@automattic/jetpack-connection": "^0.39.12-alpha",
-		"@automattic/jetpack-script-data": "^0.4.0",
+		"@automattic/jetpack-script-data": "^0.4.1-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.19.1-alpha",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.1.0-beta.10",
