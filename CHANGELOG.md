@@ -5,17 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.85.3-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [0.85.3] - 2025-05-05
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#43320] [#43326]
 
 ### Fixed
-- Fix start for free not working when module is OFF
-- Linting: Address final rules in WordPress Stylelint config.
-- Linting: Do additional stylesheet cleanup.
+- Fix start for free not working when module is OFF. [#43331]
+- Linting: Address final rules in WordPress Stylelint config. [#43296]
+- Linting: Do additional stylesheet cleanup. [#43247]
 
 ## [0.85.2] - 2025-04-28
 ### Fixed
@@ -1244,7 +1241,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[0.85.3-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.85.2...v0.85.3-alpha
+[0.85.3]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.85.2...v0.85.3
 [0.85.2]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.85.1...v0.85.2
 [0.85.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.85.0...v0.85.1
 [0.85.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v0.84.5...v0.85.0
