@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Fix start for free not working when module is OFF
 - Linting: Address final rules in WordPress Stylelint config.
 - Linting: Do additional stylesheet cleanup.
 
