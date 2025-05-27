@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- sass: `@use` rather than `@import` for `@automattic/jetpack-base-styles/gutenberg-base-styles`.
+
 ## [0.86.1] - 2025-05-26
 ### Changed
 - Update package dependencies. [#43578]
