@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - sass: `@use` rather than `@import` for `@automattic/jetpack-base-styles/gutenberg-base-styles`.
 
+### Fixed
+- Social: Fix images in connections management not loading when concatenating JS.
+
 ## [0.86.1] - 2025-05-26
 ### Changed
 - Update package dependencies. [#43578]
