@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Social: Fix images in connections management not loading when concatenating JS.
+- Social: Hide preview modal if there are no connections
 
 ## [0.86.1] - 2025-05-26
 ### Changed
