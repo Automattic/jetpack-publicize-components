@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Social Previews: Fixed a bug with text overflowing with Mastodon.
+
 ## [1.0.2] - 2025-06-16
 ### Changed
 - Update dependencies. [#43878]
