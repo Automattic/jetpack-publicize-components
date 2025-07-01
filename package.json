@@ -20,11 +20,11 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^1.0.2-alpha",
-		"@automattic/jetpack-components": "^1.1.8-alpha",
-		"@automattic/jetpack-connection": "^1.2.8-alpha",
+		"@automattic/jetpack-analytics": "^1.0.2",
+		"@automattic/jetpack-components": "^1.1.9-alpha",
+		"@automattic/jetpack-connection": "^1.2.9-alpha",
 		"@automattic/jetpack-script-data": "^0.4.4",
-		"@automattic/jetpack-shared-extension-utils": "^1.2.3-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^1.2.4-alpha",
 		"@automattic/popup-monitor": "1.0.2",
 		"@automattic/social-previews": "2.1.0-beta.12",
 		"@wordpress/annotations": "3.25.0",
@@ -57,7 +57,7 @@
 	},
 	"devDependencies": {
 		"@automattic/color-studio": "4.1.0",
-		"@automattic/jetpack-base-styles": "^1.0.2-alpha",
+		"@automattic/jetpack-base-styles": "^1.0.2",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.27.7",
 		"@babel/plugin-transform-react-jsx": "7.27.1",
