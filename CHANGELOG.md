@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Removed
+- Utilities: Remove post editor fallback as we no longer need to ensure compatibility.
+
 ## [1.1.2] - 2025-06-30
 ### Changed
 - Internal updates.
