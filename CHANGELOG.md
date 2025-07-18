@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed a bug with the SIG modal not loading featured image.
+- Social: Fix image validation when images sizes are customised.
 
 ## [1.1.4] - 2025-07-14
 ### Changed
