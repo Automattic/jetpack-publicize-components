@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed the new badge color to match WordPress colors in the connection management.
+- Update package dependencies.
 
 ### Fixed
 - Fixed a bug with the SIG modal not loading featured image.
