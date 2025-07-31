@@ -5,9 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.7-alpha] - unreleased
+## [1.2.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
+
+### Changed
+- My Jetpack: Unify the user connection flow with a unified screen.
 
 ### Fixed
 - Fixed bad UX for Social modal for resharing without user connection.
@@ -1324,7 +1327,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.1.7-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.1.6...v1.1.7-alpha
+[1.2.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.1.6...v1.2.0-alpha
 [1.1.6]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.1.5...v1.1.6
 [1.1.5]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.1.4...v1.1.5
 [1.1.4]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.1.3...v1.1.4
