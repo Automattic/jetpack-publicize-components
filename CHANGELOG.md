@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Unify the user connection flow with a unified screen.
+- Update @wordpress/dataviews to 5.0.0
 
 ### Fixed
 - Fixed bad UX for Social modal for resharing without user connection.
