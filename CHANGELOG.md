@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- I18n: Improve context hints in comments for translators.
+
 ## [1.2.1] - 2025-08-05
 ### Added
 - Social: Add font option for Image Generator. [#44514]
