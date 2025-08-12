@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Removed
+- Removed unused dependencies.
+
 ## [1.2.2] - 2025-08-11
 ### Changed
 - Update package dependencies. [#44677] [#44703]
