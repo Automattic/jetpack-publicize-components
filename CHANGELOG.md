@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Update @wordpress/dataviews package v5.0.0 → v7.0.0
+- Update package dependencies.
 
 ## [1.2.6] - 2025-09-01
 ### Fixed
