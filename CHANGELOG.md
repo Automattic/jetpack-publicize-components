@@ -5,18 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.5.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.5.0] - 2025-11-17
 ### Changed
-- Update package dependencies.
+- Update package dependencies. [#45915]
+- Update package dependencies. [#45958]
 
 ### Removed
-- Removed unsupported connections notice as it's not used now
+- Removed unsupported connections notice as it's not used now [#45844]
 
 ### Fixed
-- Social: Fix connection icon not reflecting the change when profile picture is updated.
+- Social: Fix connection icon not reflecting the change when profile picture is updated. [#45937]
 
 ## [1.4.8] - 2025-11-10
 ### Changed
@@ -1414,7 +1412,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.5.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.4.8...v1.5.0-alpha
+[1.5.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.4.8...v1.5.0
 [1.4.8]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.4.7...v1.4.8
 [1.4.7]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.4.6...v1.4.7
 [1.4.6]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.4.5...v1.4.6
