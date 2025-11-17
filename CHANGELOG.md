@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Removed unsupported connections notice as it's not used now
 
+### Fixed
+- Social: Fix connection icon not reflecting the change when profile picture is updated.
+
 ## [1.4.8] - 2025-11-10
 ### Changed
 - Update package dependencies. [#45735] [#45737]
