@@ -9,8 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update package dependencies.
+
 ### Removed
 - Removed unsupported connections notice as it's not used now
+
+### Fixed
+- Social: Fix connection icon not reflecting the change when profile picture is updated.
 
 ## [1.4.8] - 2025-11-10
 ### Changed
