@@ -11,9 +11,12 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Added title for the Facebook share preview.
-- Social: Replace ConnectionIcon component with the implementation of ConnectionImage component.
 - Social: Update the UI for cases when user connection to WordPress.com is required.
-- Update package dependencies.
+
+## [1.6.1] - 2025-11-21
+### Changed
+- Social: Replace ConnectionIcon component with the implementation of ConnectionImage component. [#45972]
+- Update package dependencies. [#46022]
 
 ## [1.6.0] - 2025-11-19
 ### Changed
@@ -1430,7 +1433,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.7.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.0...v1.7.0-alpha
+[1.7.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.1...v1.7.0-alpha
+[1.6.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.5.1...v1.6.0
 [1.5.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.5.0...v1.5.1
 [1.5.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.4.8...v1.5.0
