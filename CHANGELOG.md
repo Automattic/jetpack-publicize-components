@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Social: Replace ConnectionIcon component with the implementation of ConnectionImage component.
+- Social: Update the UI for cases when user connection to WordPress.com is required.
 - Update package dependencies.
 
 ## [1.6.0] - 2025-11-19
