@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Added title for the Facebook share preview.
+- Social: Improve the sidebar by making titles more descriptive and combining sections.
 - Social: Update the UI for cases when user connection to WordPress.com is required.
 
 ## [1.6.1] - 2025-11-21
