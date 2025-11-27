@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Add unified UI v1 feature flag.
 - Create a hook for getting the Social Image Generator preview
 
+### Changed
+- Updated Jetpack sidebar labels for post editor sidebar.
+
 ## [1.7.0] - 2025-11-24
 ### Changed
 - Add title for the Facebook share preview. [#45938]
