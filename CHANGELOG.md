@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated Jetpack sidebar labels for post editor sidebar.
+- Update package dependencies.
 
 ## [1.7.0] - 2025-11-24
 ### Changed
