@@ -12,12 +12,15 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add the new media selection UI for Social
 - Add unified modal integration for Social.
-- Add unified UI v1 feature flag.
-- Create a hook for getting the Social Image Generator preview
+
+## [1.7.1] - 2025-12-01
+### Added
+- Add unified UI v1 feature flag. [#46061]
+- Create a hook for getting the Social Image Generator preview [#46100]
 
 ### Changed
-- Updated Jetpack sidebar labels for post editor sidebar.
-- Update package dependencies.
+- Updated Jetpack sidebar labels for post editor sidebar. [#46098]
+- Update package dependencies. [#46143]
 
 ## [1.7.0] - 2025-11-24
 ### Changed
@@ -1445,7 +1448,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.8.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.0...v1.8.0-alpha
+[1.8.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.1...v1.8.0-alpha
+[1.7.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.0...v1.7.1
 [1.7.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.1...v1.7.0
 [1.6.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.5.1...v1.6.0
