@@ -5,11 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.7.1-alpha] - unreleased
+## [1.8.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add the new media selection UI for Social
 - Add unified modal integration for Social.
 - Add unified UI v1 feature flag.
 - Create a hook for getting the Social Image Generator preview
@@ -1444,7 +1445,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.7.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.0...v1.7.1-alpha
+[1.8.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.0...v1.8.0-alpha
 [1.7.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.1...v1.7.0
 [1.6.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.0...v1.6.1
 [1.6.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.5.1...v1.6.0
