@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Add the new media selection UI for Social
 - Add unified modal integration for Social.
 
+### Changed
+- Update package dependencies.
+
 ## [1.7.1] - 2025-12-01
 ### Added
 - Add unified UI v1 feature flag. [#46061]
