@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Add unified modal integration for Social.
 
 ### Changed
+- Social: Update empty connections UI in the editor.
 - Update connections list in the editor sidebar to flip the toggle position.
 - Update package dependencies.
 
