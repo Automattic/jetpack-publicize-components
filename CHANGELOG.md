@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Janitorial: Improve structure of Social Media section.
 - Update social connections list in the preview modal to improve it for smaller screens.
+- Update social post preview modal to add customization UI.
 
 ## [1.8.0] - 2025-12-08
 ### Added
