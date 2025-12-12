@@ -20,6 +20,9 @@ This is an alpha version! The changes listed here are not final.
 - Update social connections list in the preview modal to improve it for smaller screens.
 - Update social post preview modal to add customization UI.
 
+### Removed
+- Social: Remove the usage of useAdminUiV1 feature flag.
+
 ### Fixed
 - Social: Fix the submit button label and alignment for custom input form.
 
