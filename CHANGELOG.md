@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add edit template modal.
+- Open unified modal for social preview by default on pre-publish panel.
 
 ### Changed
 - Janitorial: Improve structure of Social Media section.
