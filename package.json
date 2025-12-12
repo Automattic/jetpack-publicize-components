@@ -25,6 +25,7 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
+		"@automattic/jetpack-ai-client": "^0.33.25-alpha",
 		"@automattic/jetpack-analytics": "^1.0.6",
 		"@automattic/jetpack-components": "^1.4.2-alpha",
 		"@automattic/jetpack-connection": "^1.4.22",
