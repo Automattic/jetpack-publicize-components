@@ -20,6 +20,9 @@ This is an alpha version! The changes listed here are not final.
 - Update social connections list in the preview modal to improve it for smaller screens.
 - Update social post preview modal to add customization UI.
 
+### Fixed
+- Social: Fix the submit button label and alignment for custom input form.
+
 ## [1.8.0] - 2025-12-08
 ### Added
 - Add the new media selection UI for Social. [#46085]
