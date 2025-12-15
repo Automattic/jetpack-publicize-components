@@ -5,26 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.9.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.9.0] - 2025-12-15
 ### Added
-- Add edit template modal.
-- Open unified modal for social preview by default on pre-publish panel.
-- Reuse AI image generation in media section
+- Add edit template modal. [#46220]
+- Open unified modal for social preview by default on pre-publish panel. [#46265]
+- Reuse AI image generation in media section. [#46147]
 
 ### Changed
-- Janitorial: Improve structure of Social Media section.
-- Social: Remove our own Notice component in favor of the Core one.
-- Update social connections list in the preview modal to improve it for smaller screens.
-- Update social post preview modal to add customization UI.
+- Janitorial: Improve structure of Social Media section. [#46253]
+- Social: Remove our own Notice component in favor of the Core one. [#46266]
+- Update social connections list in the preview modal to improve it for smaller screens. [#46239]
+- Update social post preview modal to add customization UI. [#46252]
 
 ### Removed
-- Social: Remove the usage of useAdminUiV1 feature flag.
+- Social: Remove the usage of `useAdminUiV1` feature flag. [#46280]
 
 ### Fixed
-- Social: Fix the submit button label and alignment for custom input form.
+- Social: Fix the submit button label and alignment for custom input form. [#46282]
 
 ## [1.8.0] - 2025-12-08
 ### Added
@@ -1471,7 +1468,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.9.0-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.8.0...v1.9.0-alpha
+[1.9.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.1...v1.8.0
 [1.7.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.0...v1.7.1
 [1.7.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.6.1...v1.7.0
