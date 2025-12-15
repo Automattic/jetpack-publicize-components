@@ -11,11 +11,20 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add edit template modal.
+- Open unified modal for social preview by default on pre-publish panel.
+- Reuse AI image generation in media section
 
 ### Changed
 - Janitorial: Improve structure of Social Media section.
+- Social: Remove our own Notice component in favor of the Core one.
 - Update social connections list in the preview modal to improve it for smaller screens.
 - Update social post preview modal to add customization UI.
+
+### Removed
+- Social: Remove the usage of useAdminUiV1 feature flag.
+
+### Fixed
+- Social: Fix the submit button label and alignment for custom input form.
 
 ## [1.8.0] - 2025-12-08
 ### Added
