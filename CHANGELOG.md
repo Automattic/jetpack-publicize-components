@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix connection icon profile picture being partly hidden.
+- Fix connections management modal not opening from pre-publish panel.
 - Social: Fix the submit button label and alignment for custom input form.
 
 ## [1.8.0] - 2025-12-08
