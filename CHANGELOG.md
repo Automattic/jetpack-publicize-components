@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Remove the usage of useAdminUiV1 feature flag.
 
 ### Fixed
+- Fix connection icon profile picture being partly hidden.
 - Social: Fix the submit button label and alignment for custom input form.
 
 ## [1.8.0] - 2025-12-08
