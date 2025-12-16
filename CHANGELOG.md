@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Social: Remove the usage of useAdminUiV1 feature flag.
+- Social: Remove the use of share status feature flag.
 
 ### Fixed
 - Fix connection icon profile picture being partly hidden.
