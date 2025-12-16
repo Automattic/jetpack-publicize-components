@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added documentation link for media best practices in the media section
 - Add edit template modal.
 - Add resharing and scheduling to the unified modal.
 - Open unified modal for social preview by default on pre-publish panel.
