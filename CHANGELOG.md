@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Added documentation link for media best practices in the media section
 - Add resharing and scheduling to the unified modal.
 
+### Changed
+- Integrate post list share action with the unified modal.
+
 ### Removed
 - Social: Remove the use of share status feature flag.
 
