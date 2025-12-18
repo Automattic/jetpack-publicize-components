@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Integrate post list share action with the unified modal.
 - Replace resharing upgrade nudge with Notice component with action.
+- Social: Show upgrade notice when media feature is not available.
 - Update the @automattic/social-previews dependency source to the monorepo.
 
 ### Removed
