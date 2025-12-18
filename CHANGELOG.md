@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix connection icon profile picture being partly hidden.
 - Fix connections management modal not opening from pre-publish panel.
+- Fix empty state mix up when all connections are removed after attaching an image.
 
 ## [1.9.0] - 2025-12-15
 ### Added
