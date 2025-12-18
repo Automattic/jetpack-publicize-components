@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Integrate post list share action with the unified modal.
 - Replace resharing upgrade nudge with Notice component with action.
+- Update the @automattic/social-previews dependency source to the monorepo.
 
 ### Removed
 - Social: Remove the use of share status feature flag.
