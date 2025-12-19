@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Integrate post list share action with the unified modal.
+- Remove upload video option from media dropdown and rename Media Library to From Media Library
 - Replace resharing upgrade nudge with Notice component with action.
 - Social: Show upgrade notice when media feature is not available.
 - Update package dependencies.
