@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix connection icon profile picture being partly hidden.
 - Fix connections management modal not opening from pre-publish panel.
 - Fix empty state mix up when all connections are removed after attaching an image.
+- Fix social previews post data reactivity for attached media.
 - Social: Fix template image not shown as attached when send as attachment is enabled.
 - Social: Make connection list in sidebar full width for single connection
 
