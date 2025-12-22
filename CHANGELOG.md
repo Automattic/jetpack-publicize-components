@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Social: Show upgrade notice when media feature is not available.
 - Update package dependencies.
 - Update the @automattic/social-previews dependency source to the monorepo.
+- Update unified modal footer button labels.
 
 ### Removed
 - Social: Remove the use of share status feature flag.
