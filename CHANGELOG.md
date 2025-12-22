@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Add resharing and scheduling to the unified modal.
 
 ### Changed
+- Adjust media selection for Replace action.
 - Integrate post list share action with the unified modal.
 - Remove upload video option from media dropdown and rename Media Library to From Media Library
 - Replace resharing upgrade nudge with Notice component with action.
