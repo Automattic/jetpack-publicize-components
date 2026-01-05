@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update review prompt to use core Notice component and also use the core preferences store.
+
 ### Fixed
 - Fix React warnings for unknown prop and a component changing an uncontrolled input to be controlled.
 - Fix `useSelect` warning in `useSocialPreviewPostData`.
