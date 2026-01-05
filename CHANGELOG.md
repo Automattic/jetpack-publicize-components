@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Fixed
+- Fix React warnings for unknown prop and a component changing an uncontrolled input to be controlled.
 - Fix `useSelect` warning in `useSocialPreviewPostData`.
 
 ## [1.10.0] - 2025-12-22
