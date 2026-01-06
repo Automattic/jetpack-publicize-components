@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-publicize-components",
-	"version": "1.10.1-alpha",
+	"version": "1.10.1",
 	"private": true,
 	"description": "A library of JS components required by the Publicize editor plugin",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/js-packages/publicize-components/#readme",
@@ -25,7 +25,7 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"@automattic/jetpack-ai-client": "^0.33.27-alpha",
+		"@automattic/jetpack-ai-client": "^0.33.27",
 		"@automattic/jetpack-analytics": "^1.0.6",
 		"@automattic/jetpack-components": "^1.4.3",
 		"@automattic/jetpack-connection": "^1.4.24",
