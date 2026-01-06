@@ -5,18 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.10.1-alpha] - unreleased
+## [1.10.2-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Update package dependencies.
-- Update review prompt to use core Notice component and also use the core preferences store.
 
 ### Fixed
-- Fix React warnings for unknown prop and a component changing an uncontrolled input to be controlled.
-- Fix `useSelect` warning in `useSocialPreviewPostData`.
 - UI: Prevent the modals in editor from stretching too wide on large screens.
+
+## [1.10.1] - 2026-01-06
+### Changed
+- Update review prompt to use core Notice component and also use the core preferences store. [#46398]
+
+### Fixed
+- Fix React warnings for unknown prop and a component changing an uncontrolled input to be controlled. [#46399]
+- Fix `useSelect` warning in `useSocialPreviewPostData`. [#46417]
 
 ## [1.10.0] - 2025-12-22
 ### Added
@@ -1509,7 +1514,8 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies. [#24470]
 
-[1.10.1-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.10.0...v1.10.1-alpha
+[1.10.2-alpha]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.10.1...v1.10.2-alpha
+[1.10.1]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.10.0...v1.10.1
 [1.10.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.9.0...v1.10.0
 [1.9.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/Automattic/jetpack-publicize-components/compare/v1.7.1...v1.8.0
