@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix React warnings for unknown prop and a component changing an uncontrolled input to be controlled.
 - Fix `useSelect` warning in `useSocialPreviewPostData`.
+- UI: Prevent the modals in editor from stretching too wide on large screens.
 
 ## [1.10.0] - 2025-12-22
 ### Added
