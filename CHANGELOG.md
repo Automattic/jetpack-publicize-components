@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Removed
+- Remove the obsolete share limits logic.
+
 ### Fixed
 - UI: Prevent the modals in editor from stretching too wide on large screens.
 
